@@ -433,7 +433,7 @@ figcaption {
 
 .content-section.double-colored {
   padding-bottom: 120px;
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .content-section.hidden {
@@ -449,7 +449,7 @@ figcaption {
   margin-bottom: 100px;
   padding-top: 80px;
   padding-bottom: 100px;
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .content-section.previews {
@@ -460,7 +460,7 @@ figcaption {
   margin-bottom: 100px;
   padding-top: 80px;
   padding-bottom: 100px;
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .content-wrapper-wide {
@@ -868,7 +868,7 @@ figcaption {
 .dropdown-link {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #edece6;
+  background-color: #eaeaea;
   -webkit-transition: padding 200ms ease, background-color 200ms ease;
   transition: padding 200ms ease, background-color 200ms ease;
   color: #004078;
@@ -877,11 +877,11 @@ figcaption {
 
 .dropdown-link:hover {
   padding-left: 23px;
-  background-color: #e8e6dd;
+  background-color: #a6c8fa;
 }
 
 .dropdown-link.w--current {
-  background-color: #e8e6dd;
+  background-color: #a6c8fa;
   color: #004078;
 }
 
@@ -1261,7 +1261,7 @@ figcaption {
   position: relative;
   padding-top: 70px;
   padding-bottom: 70px;
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .service-item {
@@ -1393,11 +1393,11 @@ figcaption {
   bottom: 0%;
   z-index: 5;
   display: none;
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .absolute-bg.darker {
-  background-color: #e8e6dd;
+  background-color: #a6c8fa;
 }
 
 .team-member {
@@ -1454,12 +1454,12 @@ figcaption {
   grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
-  background-color: #edece6;
+  background-color: #eaeaea;
   text-align: center;
 }
 
 .hover-bg.darker {
-  background-color: #e8e6dd;
+  background-color: #a6c8fa;
 }
 
 .team-picture-box {
@@ -1558,7 +1558,7 @@ figcaption {
   right: 0%;
   bottom: 0%;
   display: none;
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .hover-overlay {
@@ -1946,7 +1946,7 @@ figcaption {
 }
 
 .pricing-row:hover {
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .small {
@@ -2253,7 +2253,7 @@ figcaption {
   right: 0%;
   bottom: 0%;
   display: none;
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .flex-all-center {
@@ -2324,11 +2324,11 @@ figcaption {
 }
 
 .tab:hover {
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .tab.w--current {
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .tabs-container {
@@ -2534,7 +2534,7 @@ figcaption {
 .text-container-7 {
   width: 50%;
   padding: 80px 70px;
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .perks-item {
@@ -2576,7 +2576,7 @@ figcaption {
   -webkit-justify-content: flex-end;
   -ms-flex-pack: end;
   justify-content: flex-end;
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .row-flex {
@@ -3018,7 +3018,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 25px;
-  background-color: #edece6;
+  background-color: #eaeaea;
   font-size: 12px;
   line-height: 12px;
   font-weight: 700;
@@ -3204,7 +3204,7 @@ figcaption {
 
 .testimonials {
   height: 100%;
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .testimonial-arrow {
@@ -3984,7 +3984,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .text-box-2 {
@@ -4093,7 +4093,7 @@ figcaption {
   right: 0%;
   bottom: 0%;
   display: none;
-  background-color: #edece6;
+  background-color: #eaeaea;
 }
 
 .flex-instagram {
@@ -4351,7 +4351,7 @@ figcaption {
   }
 
   .nav-menu {
-    background-color: #e8e6dd;
+    background-color: #a6c8fa;
   }
 
   .nav-column.left {
@@ -4521,7 +4521,7 @@ figcaption {
   }
 
   .menu-button.w--open {
-    background-color: #e8e6dd;
+    background-color: #a6c8fa;
     color: #004078;
   }
 
@@ -4543,11 +4543,11 @@ figcaption {
   }
 
   .dropdown-list {
-    background-color: #edece6;
+    background-color: #eaeaea;
   }
 
   .dropdown-list.w--open {
-    background-color: #edece6;
+    background-color: #eaeaea;
   }
 
   .footer-wrapper {
