@@ -21,7 +21,7 @@
 
 <div class="content_section mt-5 py-5">
     <div class="container">
-        <h2 class="text-uppercase">What to expect as a new client</h2>
+        <h2 class="text-uppercase text-center">What to expect as a new client</h2>
         <div class="row">
             <div class="col-lg-6">
                 <h3>DISCOVER HOW YOUR NEEDS COME FIRST WHEN BECOMING A HIGHRESIN CLIENT</h3>
@@ -31,7 +31,7 @@
                 </p>
             </div>
             <div class="col-lg-6">
-
+                <img src="{{ asset('assets/images/insights/client-programs/1.jpg') }}" />
             </div>
         </div>
     </div>
