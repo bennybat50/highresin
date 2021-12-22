@@ -1,10 +1,28 @@
 @extends('templates.public')
 @section('content')
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h1>clients-programs page</h1>
+
+<div class="content_section mt-5 py-5">
+    clients-programs page
+</div>
+
+<div class="content_section mt-5 py-5">
+    clients-programs page
+</div>
+
+<div class="content_section mt-5 py-5">
+    clients-programs page
+</div>
+
+<div class="content_section mt-5 py-5">
+    clients-programs page
+</div>
+
+<div class="content_section mt-5 py-5">
+    clients-programs page
+</div>
+
+<div class="content_section mt-5 py-5">
+    clients-programs page
+</div>
+
 @endsection
