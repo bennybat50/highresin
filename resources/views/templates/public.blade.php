@@ -73,12 +73,12 @@
                   <a href="benefits" class="dropdown-link w-dropdown-link w--current">Benefits</a>
                   <a href="how-we-are-different" class="dropdown-link w-dropdown-link w--current">How we are different</a>
                   <a href="what-we-offer" class="dropdown-link w-dropdown-link w--current">What we offer</a>
-                  <a href="what-we-offer" class="dropdown-link w-dropdown-link w--current">Research & Analysis</a>
+                  <a href="research" class="dropdown-link w-dropdown-link w--current">Research & Analysis</a>
                 </nav>
               </div>
 
             <a href="contact" class="nav-link w-nav-link">Contact Us</a>
-            <a href="contact" class="nav-link w-nav-link "> <span class="nav-action">Get Started</span></a>
+            <a href="" class="nav-link w-nav-link "> <span class="nav-action">Get Started</span></a>
           </div>
 
 

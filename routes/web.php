@@ -50,7 +50,7 @@ use Illuminate\Support\Facades\URL;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+// public page routes Start
 Route::resource('/', Home::class);
 Route::resource('/home', Home::class);
 
@@ -61,8 +61,8 @@ Route::get('/account-suspended', function () {
     return view('auth.account-suspend');
 });
 
-Route::get('/diversity-and-inclusion', function () {
-    return view('diversity-and-inclusion');
+Route::get('/what-we-do', function () {
+    return view('what-we-do');
 });
 
 Route::get('/email', function () {
@@ -75,50 +75,55 @@ Route::get('/email', function () {
     ]);
 });
 
-Route::get('/esg', function () {
-    return view('esg');
+Route::get('/investment-approach', function () {
+    return view('investment-approach');
 });
-Route::get('/responsible-investing', function () {
-    return view('responsible-investing');
+Route::get('/investment-capabilities', function () {
+    return view('investment-capabilities');
 });
-Route::get('/corporate', function () {
-    return view('corporate');
+Route::get('/our-culture', function () {
+    return view('our-culture');
 });
-Route::get('/contact', function () {
-    return view('contact');
+Route::get('/our-history', function () {
+    return view('our-history');
 });
 Route::get('/blog', function () {
     return view('blog');
 });
-Route::get('/investment', function () {
-    return view('investment');
+Route::get('/why-highresin', function () {
+    return view('why-highresin');
 });
-Route::get('/sustainability', function () {
-    return view('sustainability');
+Route::get('/choosing-highresin', function () {
+    return view('choosing-highresin');
 });
-Route::get('/overview', function () {
-    return view('overview');
-});
-
-Route::get('/insurance-solutions', function () {
-    return view('insurance');
+Route::get('/mission-and-values', function () {
+    return view('mission-and-values');
 });
 
-Route::get('/private-equity', function () {
-    return view('private');
+Route::get('/clients-programs', function () {
+    return view('clients-programs');
 });
 
-Route::get('/real-estate', function () {
-    return view('real-estate');
+Route::get('/benefits', function () {
+    return view('benefits');
 });
 
-Route::get('/renewable-power', function () {
-    return view('renewable');
+Route::get('/how-we-are-different', function () {
+    return view('how-we-are-different');
 });
 
-Route::get('/infrastructure', function () {
-    return view('infrastructure');
+Route::get('/what-we-offer', function () {
+    return view('what-we-offer');
 });
+
+Route::get('/research', function () {
+    return view('research');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+// public page routes End
 
 //User Registration Routes
 Route::get('register/user-email', function () {
