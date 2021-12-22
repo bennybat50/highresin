@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <title>Highresin</title>
-  <meta content="Buyan is the Perfect Business &amp; Consulting Webflow template designed to easily run your services. Yes, Business template features a beautiful design but is also powerful and easy to customize, try it today!" name="description">
+  <meta content="HighResin Group is a global asset management organization with over $15 million in assets under management as of February 28, 2021. The organization provides a broad array of asset classes, mutual funds, sub-advisory services, and separate account management for individual and institutional investors, retirement plans, and financial intermediaries.  " name="description">
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <meta content="Webflow" name="generator">
+  <meta content="HighResin Group" name="HighResin Group">
   <link href="{{ asset('assets/css/normalize.css') }}" rel="stylesheet" type="text/css">
   <link href=" {{ asset('assets/css/webflow.css') }}" rel="stylesheet" type="text/css">
   <link href=" {{ asset('assets/css/mads-supercool-project-718e0f.webflow.css') }}" rel="stylesheet" type="text/css">
