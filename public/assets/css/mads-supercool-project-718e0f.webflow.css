@@ -156,7 +156,7 @@ p {
 }
 
 a {
-  color: #deac55;
+  color: #de5555;
   text-decoration: none;
   cursor: pointer;
 }
@@ -754,7 +754,7 @@ figcaption {
 
 
 .nav-link.w--current {
-  color: #deac55;
+  color: #de5555;
 }
 
 .brand {
@@ -1663,7 +1663,7 @@ figcaption {
 .category-link {
   -webkit-transition: opacity 200ms ease;
   transition: opacity 200ms ease;
-  color: #deac55;
+  color: #de5555;
   font-size: 16px;
 }
 
@@ -1726,7 +1726,7 @@ figcaption {
 }
 
 .menu-link.black.w--current {
-  color: #deac55;
+  color: #de5555;
 }
 
 .footer-title {
@@ -2072,7 +2072,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 50%;
-  background-color: #deac55;
+  background-color: #de5555;
   background-image: url('../images/flecha-hacia-arriba.svg');
   background-position: 50% 50%;
   background-size: 15px 100%;
@@ -2492,7 +2492,7 @@ figcaption {
 .play-button {
   width: 90px;
   height: 90px;
-  border: 2px solid #deac55;
+  border: 2px solid #de5555;
   border-radius: 50%;
   background-image: url('../images/simbolo-de-reproduccion-multimedia.svg');
   background-position: 53% 50%;
@@ -2759,7 +2759,7 @@ figcaption {
   height: 240px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  background-color: #deac55;
+  background-color: #de5555;
 }
 
 .chart-bar-2 {
@@ -2772,7 +2772,7 @@ figcaption {
   height: 290px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  background-color: #deac55;
+  background-color: #de5555;
 }
 
 .chart-bar-3 {
@@ -2785,7 +2785,7 @@ figcaption {
   height: 260px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  background-color: #deac55;
+  background-color: #de5555;
 }
 
 .chart-bar-4 {
@@ -2798,7 +2798,7 @@ figcaption {
   height: 240px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  background-color: #deac55;
+  background-color: #de5555;
 }
 
 .inner-hero {
@@ -2830,7 +2830,7 @@ figcaption {
 }
 
 .slider-arrow {
-  color: #deac55;
+  color: #de5555;
   font-size: 24px;
   font-weight: 700;
 }
@@ -3210,7 +3210,7 @@ figcaption {
 .testimonial-arrow {
   -webkit-transition: opacity 200ms ease;
   transition: opacity 200ms ease;
-  color: #deac55;
+  color: #de5555;
 }
 
 .testimonial-arrow:hover {
@@ -3240,7 +3240,7 @@ figcaption {
   height: 70px;
   margin-right: auto;
   margin-left: auto;
-  border: 2px solid #deac55;
+  border: 2px solid #de5555;
   border-radius: 50%;
   background-image: url('../images/T-2.jpg');
   background-position: 50% 50%;
@@ -3343,7 +3343,7 @@ figcaption {
 }
 
 .side-link:hover {
-  color: #deac55;
+  color: #de5555;
 }
 
 .navbar-container {
