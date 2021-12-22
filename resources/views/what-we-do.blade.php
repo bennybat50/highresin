@@ -1,6 +1,6 @@
 @extends('templates.public')
 @section('content')
-<div class="what-we-do-sec">
+<div class="what-we-do-welcome">
         <div class="welcome-sec text-center">
             <div class="container">
             <div class="p-5">
