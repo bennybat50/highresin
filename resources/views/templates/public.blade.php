@@ -32,7 +32,7 @@
         <a href="/" aria-current="page" class="brand-mobile w-nav-brand w--current"><img src="images/logos/z-icon.png" width="160" alt=""></a>
         <nav role="navigation" class="nav-menu w-nav-menu">
             <div class="nav-column left">
-                <a href="" class="nav-link w-nav-link"><h1 class="text-primary"><b>High<span class="text-danger">Resin</span></b> </h1></a>
+                <a href="/" class="nav-link w-nav-link"><h1 class="text-primary"><b>High<span class="text-danger">Resin</span></b> </h1></a>
               </div>
 
 
@@ -97,6 +97,10 @@
         <div class="container">
            <div class="row">
                <div class="col-md-12 p-5">
+                   <br>
+                   <br>
+                   <br>
+                   <br>
                    <br>
                    <br>
                    <br>
