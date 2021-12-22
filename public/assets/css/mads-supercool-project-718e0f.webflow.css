@@ -5906,4 +5906,10 @@ figcaption {
 .what-we-do-welcome{width: 100%; height: 750px; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/what-we-do/welcome-bg.jpg");
     background-position: top; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
 .what-we-do-welcome .welcome-sec h4{padding-top: 180px; font-size: 25px; }
+
+.what-we-do-sections .section1 img{ height: 550px; width: 100%; object-fit: cover; object-position: center;}
+.what-we-do-sections .section2{background-color: #e3f2ff42;}
+.what-we-do-sections .section3 .section-bg{width: 100%; height: 700px; background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.701), rgba(0, 0, 0, 0.700)), url("../images/what-we-do/culture.jpg");
+    background-position: right; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
+    .what-we-do-sections .section4 .border-column {}
 /* What we do css end */
