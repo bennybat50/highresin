@@ -5900,3 +5900,10 @@ figcaption {
 /* aboutpage css start */
 
 /* aboutpage css end */
+
+
+/* What we do css start */
+.what-we-do-welcome{width: 100%; height: 750px; background-image:linear-gradient(180deg, rgba(0, 0, 0, 0.701), rgba(0, 0, 0, 0.701)), url("../images/what-we-do/welcome-bg.jpg");
+    background-position: top; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
+.what-we-do-welcome .welcome-sec h4{padding-top: 180px; font-size: 25px; }
+/* What we do css end */
