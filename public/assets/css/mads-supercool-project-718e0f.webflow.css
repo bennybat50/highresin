@@ -5913,3 +5913,15 @@ figcaption {
     background-position: right; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
     .what-we-do-sections .section4 .border-column {}
 /* What we do css end */
+
+/* investment approach */
+
+.investment-approach-welcome{width: 100%; height: 750px; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/approach/welcome-bg.jpg");
+    background-position: center; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
+.investment-approach-welcome .welcome-sec h4{padding-top: 180px; font-size: 25px; }
+.investment-approach-section .img-left { margin-left: 100px; width: 80%; height: 450px; object-fit: cover;}
+.investment-approach-section .img-section .top-banner-left{ width: 60%; height: 200px; background-color: #004078; margin-bottom: -120px;}
+.investment-approach-section .img-right { margin-right: 20px; width: 90%;height: 450px; object-fit: cover;}
+.investment-approach-section .img-section .top-banner-right{ width: 60%; height: 200px; margin-left: 300px; background-color: #004078; margin-bottom: -120px; text-align: right;}
+.investment-approach-section .section3 ul li{ color: #000;}
+/* investment approach end */
