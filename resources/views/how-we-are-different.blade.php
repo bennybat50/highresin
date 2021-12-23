@@ -24,44 +24,57 @@
     </div>
 </div>
 
-<div class="content_section">
-    <div class="container">
+<div class="content_section py-5">
+    <div class="container py-5">
         <div class="row">
             <div class="col-lg-4">
-                <h4>Advice that is always in your best interest</h4>
+                <div class="border rounded-sm">
+                    <h4 class="border-bottom p-4">Advice that is always in your best interest</h4>
 
-                <p>
-                    As a fiduciary, we always put your interests first—and we’ve designed our entire business to keep it
-                    this way. Unlike some money managers, we have no incentives to sell you commission-based financial
-                    products or place trades in your account when it’s not best for you. Our simple fee structure aligns
-                    your interests with our business goals. Simply put, when you do better we do better.
-                </p>
+                    <p class="p-4 fs-5">
+                        As a fiduciary, we always put your interests first—and we’ve designed our entire business to
+                        keep it
+                        this way. Unlike some money managers, we have no incentives to sell you commission-based
+                        financial
+                        products or place trades in your account when it’s not best for you. Our simple fee structure
+                        aligns
+                        your interests with our business goals. Simply put, when you do better we do better.
+                    </p>
+                </div>
             </div>
 
             <div class="col-lg-4">
-                <h4>A portofolio tailored to your needs</h4>
+                <div class="border rounded-sm">
+                    <h4 class="border-bottom p-4">A portofolio tailored to your needs</h4>
 
-                <p>
-                    We respect how hard you worked to build your nest egg, and before we recommend anything, we get to
-                    know you. We ask questions about your goals and needs, your expenses, your health, your family
-                    commitments and more—to better understand what you need your money to accomplish. This enables us to
-                    recommend a personalized portfolio designed to meet your needs and to help you enjoy the retirement
-                    you’ve earned.
-                </p>
+                    <p class="p-4 fs-5">
+                        We respect how hard you worked to build your nest egg, and before we recommend anything, we get
+                        to
+                        know you. We ask questions about your goals and needs, your expenses, your health, your family
+                        commitments and more—to better understand what you need your money to accomplish. This enables
+                        us to
+                        recommend a personalized portfolio designed to meet your needs and to help you enjoy the
+                        retirement
+                        you’ve earned.
+                    </p>
+                </div>
             </div>
 
             <div class="col-lg-4">
-                <h4>Commuunication and Counsel to help you stay on track</h4>
+                <div class="border rounded-sm">
+                    <h4 class="border-bottom p-4">Commuunication and Counsel to help you stay on track</h4>
 
-                <p>
-                    You will receive a personal point of contact with your Investment Counselor committed to
-                    understanding you on a personal level and keeping your financial plan on track. Your Investment
-                    Counselor will be there for you, whether you want to know how your portfolio is doing and why, or
-                    whether you want guidance when the ups and downs of the stock market rattle your nerves. Your
-                    Investment Counselor will keep in touch in all market conditions and won’t be afraid to give you an
-                    occasional dose of tough love to help you stay disciplined to your long-term plan.
-                </p>
-
+                    <p class="p-4 fs-5">
+                        You will receive a personal point of contact with your Investment Counselor committed to
+                        understanding you on a personal level and keeping your financial plan on track. Your Investment
+                        Counselor will be there for you, whether you want to know how your portfolio is doing and why,
+                        or
+                        whether you want guidance when the ups and downs of the stock market rattle your nerves. Your
+                        Investment Counselor will keep in touch in all market conditions and won’t be afraid to give you
+                        an
+                        occasional dose of tough love to help you stay disciplined to your long-term plan.
+                    </p>
+                </div>
             </div>
         </div>
     </div>

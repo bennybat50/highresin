@@ -20,8 +20,8 @@
     </div>
 </div>
 
-<div class="content_section">
-    <div class="container">
+<div class="content_section py-5">
+    <div class="container py-5">
         <div class="row">
             <div class="col-lg-2">
                 <h6>Savings and retirement</h6>
@@ -46,9 +46,9 @@
     </div>
 </div>
 
-<div class="content_section">
-    <div class="container">
-        <div class="row">
+<div class="content_section py-5">
+    <div class="container py-5">
+        <div class="row text-center">
             <h4>What services do we provide?</h4>
 
             <p>
@@ -146,8 +146,8 @@
     </div>
 </div>
 
-<div class="content_section">
-    <div class="container">
+<div class="content_section py-5">
+    <div class="container py-5">
         <div class="row">
             <div class="col-lg-8">
                 <h6>Tailored Portfolio</h6>
