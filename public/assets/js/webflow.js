@@ -3970,7 +3970,7 @@ window.tram = function (a) {
     }
 
     var f = {
-      duration: 500,
+      duration: 5,
       ease: "ease",
       delay: 0
     };
@@ -17601,8 +17601,8 @@ Webflow.define('scroll', module.exports = function ($) {
   function ready() {
     var WF_CLICK_EMPTY = NS_EVENTS.WF_CLICK_EMPTY,
         WF_CLICK_SCROLL = NS_EVENTS.WF_CLICK_SCROLL;
-    $doc.on(WF_CLICK_SCROLL, localHrefSelector, validateScroll);
     /**
+     * $doc.on(WF_CLICK_SCROLL, localHrefSelector, validateScroll);
      * Prevent empty hash links from triggering scroll.
      * Legacy feature to preserve: use the default "#" link
      * to trigger an interaction, and do not want the page
@@ -17610,7 +17610,7 @@ Webflow.define('scroll', module.exports = function ($) {
      */
 
     $doc.on(WF_CLICK_EMPTY, emptyHrefSelector, function (e) {
-      e.preventDefault();
+
     });
   } // Export module
 
@@ -19519,11 +19519,7 @@ Webflow.define('lightbox', module.exports = function ($) {
     }
   }
 
-  function clickHandler(data) {
-    return function () {
-      data.items.length && lightbox(data.items, data.index || 0);
-    };
-  }
+
 
   function supportOldLightboxJson(data) {
     if (data.images) {
