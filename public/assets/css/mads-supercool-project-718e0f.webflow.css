@@ -5913,3 +5913,12 @@ figcaption {
     background-position: right; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
     .what-we-do-sections .section4 .border-column {}
 /* What we do css end */
+
+
+/* Research Page CSS start */
+.research_welcome{background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/research_and_analysis/1.jpg')}
+.research_box{border: 1.2px solid #004078; border-radius: 30px;}
+.research_box_link{
+  text-decoration: none;
+}
+/* Research Page CSS end */
