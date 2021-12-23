@@ -112,7 +112,7 @@
                 </p>
                </div>
                 <br>
-                <a href="" class="site-btn-white">Get Started</a>
+                <a href="" id="started" class="site-btn-white">Get Started</a>
                </div>
            </div>
         </div>
@@ -243,8 +243,15 @@
         </div>
       </div>
       <a href="#Top" data-w-id="721504d5-3017-a70d-1b78-49ff5a36f591" style="opacity:0;display:none" class="go-up-button w-inline-block"></a>
-      <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+      {{-- <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> --}}
+      <script src="{{ asset('assets/js/jquery.min.js') }}" type="text/javascript"></script>
+      <script src="{{ asset('assets/js/bootstrap.min.js') }}" type="text/javascript"></script>
     <script src="{{ asset('assets/js/webflow.js') }}" type="text/javascript"></script>
+    <script>
+        // $("#started").on('click', function(){
+        //     alert()
+        // })
+    </script>
 
   </body>
   </html>
