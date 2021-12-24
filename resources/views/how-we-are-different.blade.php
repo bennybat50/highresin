@@ -1,7 +1,7 @@
 @extends('templates.public')
 @section('content')
 
-<div class="what-we-do-welcome">
+<div class="what-we-do-welcome how_we_are_diff_welcome">
     <div class="welcome-sec text-center">
         <div class="container">
             <div class="p-5">
@@ -28,8 +28,8 @@
     <div class="container py-5">
         <div class="row">
             <div class="col-lg-4">
-                <div class="border rounded-sm">
-                    <h4 class="border-bottom p-4">Advice that is always in your best interest</h4>
+                <div class="diff_box">
+                    <h4 class="b-bottom p-4">Advice that is always in your best interest</h4>
 
                     <p class="p-4 fs-5">
                         As a fiduciary, we always put your interests first—and we’ve designed our entire business to
@@ -44,8 +44,8 @@
             </div>
 
             <div class="col-lg-4">
-                <div class="border rounded-sm">
-                    <h4 class="border-bottom p-4">A portofolio tailored to your needs</h4>
+                <div class="diff_box">
+                    <h4 class="b-bottom p-4">A portofolio tailored to your needs</h4>
 
                     <p class="p-4 fs-5">
                         We respect how hard you worked to build your nest egg, and before we recommend anything, we get
@@ -61,8 +61,8 @@
             </div>
 
             <div class="col-lg-4">
-                <div class="border rounded-sm">
-                    <h4 class="border-bottom p-4">Commuunication and Counsel to help you stay on track</h4>
+                <div class="diff_box">
+                    <h4 class="b-bottom p-4">Commuunication and Counsel to help you stay on track</h4>
 
                     <p class="p-4 fs-5">
                         You will receive a personal point of contact with your Investment Counselor committed to
@@ -97,13 +97,13 @@
             </div>
 
             <div class="col-lg-6">
-
+            <img src="{{ asset('assets/images/insights/how_we_diff/2.jpg') }}" />
             </div>
         </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
         <div class="row">
             <div class="col-lg-6">
-
+                <img src="{{ asset('assets/images/insights/how_we_diff/3.jpg') }}" />
             </div>
             <div class="col-lg-6">
                 <h4>TRANSPARENCY</h4>
