@@ -1,7 +1,7 @@
 @extends('templates.public')
 @section('content')
 
-<div class="what-we-do-welcome">
+<div class="what-we-do-welcome benefits-welcome">
     <div class="welcome-sec text-center">
         <div class="container">
             <div class="p-5">
@@ -22,23 +22,30 @@
     </div>
 </div>
 
-<div class="content_section">
+<div class="content_section py-5">
     <div class="container">
-        <h2>TIERED CLIENT BENEFITS BASED ON ASSET LEVEL</h2>
+        <h2 class="text-center mb-5">TIERED CLIENT BENEFITS BASED ON ASSET LEVEL</h2>
 
         <div class="row">
             <div class="col-lg-6">
-                <h3>All Investors</h3>
+                <div class="" style="padding: 100px;">
+                    <h3>All Investors</h3>
 
-                <p>
-                    Investors at any level enjoy access to a range of complimentary benefits.
-
-                    Available resources include access to knowledgeable service specialists and proprietary investment
-                    content.
-                </p>
+                    <p>
+                        Investors at any level enjoy access to a range of complimentary benefits.
+                        <br>
+                        <br>
+                        Available resources include access to knowledgeable service specialists and proprietary
+                        investment
+                        content.
+                    </p>
+                </div>
             </div>
             <div class="col-lg-6">
-
+                <div class="insights-img-section">
+                    <div class="insights-top-banner-right"></div>
+                    <img src="{{ asset('assets/images/insights/benefits/2.jpg') }}" alt="" class="insights-img-right">
+                </div>
             </div>
         </div>
     </div>
@@ -48,39 +55,24 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
+                <div class="insights-img-section">
+                    <div class="insights-top-banner-right"></div>
+                    <img src="{{ asset('assets/images/insights/benefits/3.jpg') }}" alt="" class="insights-img-right">
+                </div>
 
             </div>
             <div class="col-lg-6">
-                <h3>Personal Services</h3>
+                <div class="" style="padding: 100px;">
+                    <h3>Personal Services</h3>
 
-                <p>
-                    Investors with $250k or more in qualifying assets are automatically recognized at the Personal
-                    Services level.
+                    <p>
+                        Investors with $250k or more in qualifying assets are automatically recognized at the Personal
+                        Services level.
 
-                    This program includes an expanded suite of complimentary investment resources, fee waivers, and
-                    elevated service to help make managing investments more convenient.
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="content_section">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <h3>Enhanced personal services</h3>
-
-                <p>
-                    Investors with $1 million or more in qualifying assets are automatically recognized at the Enhanced
-                    Personal Services level.
-
-                    This program features our most comprehensive package of research and complimentary advice resources
-                    to help clients make more informed investment decisions.
-                </p>
-            </div>
-            <div class="col-lg-6">
-
+                        This program includes an expanded suite of complimentary investment resources, fee waivers, and
+                        elevated service to help make managing investments more convenient.
+                    </p>
+                </div>
             </div>
         </div>
     </div>
@@ -90,6 +82,35 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
+                <div class="" style="padding: 100px;">
+                    <h3>Enhanced personal services</h3>
+
+                    <p>
+                        Investors with $1 million or more in qualifying assets are automatically recognized at the
+                        Enhanced
+                        Personal Services level.
+
+                        This program features our most comprehensive package of research and complimentary advice
+                        resources
+                        to help clients make more informed investment decisions.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="insights-img-section">
+                    <div class="insights-top-banner-right"></div>
+                    <img src="{{ asset('assets/images/insights/benefits/4.jpg') }}" alt="" class="insights-img-right">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="content_section py-5">
+    <div class="container py-2">
+        <div class="row">
+            <div class="col-lg-6 p-5">
+                <div class="" style="padding: 100px;"></div>
                 <h5>Private Asset Management</h5>
 
                 <p>Investors with $1 million or more in assets can choose to have Highresin professionals manage their
@@ -113,7 +134,7 @@
                 </ul>
             </div>
             <div class="col-lg-6">
-
+                <img src="{{ asset('assets/images/insights/benefits/5.jpg') }}" />
             </div>
         </div>
     </div>

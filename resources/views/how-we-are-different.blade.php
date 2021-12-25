@@ -80,41 +80,50 @@
     </div>
 </div>
 
-<div class="content_section">
+<div class="content_section py-5" style="background: #004078;">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-                <h4>Disciplined and active portfolio management</h4>
+                <div class="" style="padding: 100px;">
+                    <h4 class="text-white fs-2 fw-bold mb-4"> <i>Disciplined and active portfolio management</i></h4>
 
-                <p>
-                    We’re more than just stock pickers. We believe active portfolio management centred on your long-term
-                    goals is the best way to discover opportunities and achieve long-term results. Our five-person
-                    Investment Policy Committee, supported by large in-house research staff, analyzes global investing
-                    opportunities—narrowing down from country and sector to find securities they think will do well
-                    moving forward. This disciplined approach allows us to interpret information differently and find
-                    global investment opportunities other money managers may overlook.
-                </p>
+                    <p class="fs-5 text-white">
+                        We’re more than just stock pickers. We believe active portfolio management centred on your
+                        long-term
+                        goals is the best way to discover opportunities and achieve long-term results. Our five-person
+                        Investment Policy Committee, supported by large in-house research staff, analyzes global
+                        investing
+                        opportunities—narrowing down from country and sector to find securities they think will do well
+                        moving forward. This disciplined approach allows us to interpret information differently and
+                        find
+                        global investment opportunities other money managers may overlook.
+                    </p>
+                </div>
             </div>
 
             <div class="col-lg-6">
-            <img src="{{ asset('assets/images/insights/how_we_diff/2.jpg') }}" />
+                <img src="{{ asset('assets/images/insights/how_we_diff/2.jpg') }}" style="border-radius: 30px; height: 420px;" />
             </div>
         </div>
 
-        <div class="row">
+        <div class="row mt-5 pt-5">
             <div class="col-lg-6">
-                <img src="{{ asset('assets/images/insights/how_we_diff/3.jpg') }}" />
+                <img src="{{ asset('assets/images/insights/how_we_diff/3.jpg') }}" style="border-radius: 30px;" />
             </div>
             <div class="col-lg-6">
-                <h4>TRANSPARENCY</h4>
+                <div class="" style="padding: 100px;">
+                    <h4 class="text-white fs-2 fw-bold mb-4"> <i>TRANSPARENCY</i></h4>
 
-                <p>
-                    You deserve to know what we’re doing with your money. That’s why we’re transparent about the
-                    investment decisions we make for your portfolio. Whether you’re someone who wants to dig into the
-                    details of your portfolio or you want to be more hands-off, we provide a variety of resources to get
-                    you the information you need, when you need it—all to make sure you’re comfortable with our
-                    investing approach.
-                </p>
+                    <p class="fs-5 text-white">
+                        You deserve to know what we’re doing with your money. That’s why we’re transparent about the
+                        investment decisions we make for your portfolio. Whether you’re someone who wants to dig into
+                        the
+                        details of your portfolio or you want to be more hands-off, we provide a variety of resources to
+                        get
+                        you the information you need, when you need it—all to make sure you’re comfortable with our
+                        investing approach.
+                    </p>
+                </div>
             </div>
         </div>
     </div>
