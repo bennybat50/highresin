@@ -1,3 +1,6 @@
+body{
+  overflow-x: hidden !important;
+}
 .w-pagination-wrapper {
   display: -webkit-box;
   display: -webkit-flex;
@@ -5916,6 +5919,44 @@ figcaption {
 
 /* investment approach */
 
+/* Research Page CSS start */
+.research_welcome{background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/research_and_analysis/1.jpg')}
+.research_box{border: 1.2px solid #004078; border-radius: 30px;}
+.research_box img{object-fit: cover; object-position: 100% 100%; width: 100%; border-radius: 30px 30px 0px 0px; height: 250px;}
+.research_box_link{
+  text-decoration: none;
+}
+/* Research Page CSS end */
+
+
+/* What we offer CSS start*/
+.what-we-offer-welcome{
+  background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/what_we_offer/1.jpg');
+}
+.offer_pills{
+  border: 1.2px solid #1a7bb7;
+  border-radius: 30px;
+}
+.offer_pills:hover{
+  background: #f5325c;
+  border: 1.2px solid #fff;
+  color: #fff !important;
+  transition: 0.3s cubic-bezier(0.075, 0.82, 0.165, 1);
+  transform: scale(1.3);
+}
+.offer_pills:hover h6{
+  color: #fff;
+}
+/* What we offer CSS End */
+
+
+/* How we are different CSS Start */
+.how_we_are_diff_welcome{
+  background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/how_we_diff/1.jpg')
+}
+.diff_box{ border: 1.2px solid #1a7bb7;border-radius: 30px;}
+.b-bottom{ border-bottom: 1.2px solid #1a7bb7;}
+/* How we are different CSS End */
 .investment-approach-welcome{width: 100%; height: 750px; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/approach/welcome-bg.jpg");
     background-position: center; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
 .investment-approach-welcome .welcome-sec h4{padding-top: 180px; font-size: 25px; }

@@ -25,8 +25,9 @@
         <div class="row">
             <div class="col-lg-4 mb-4">
                 <div class="research_box">
+                    <img src="{{ asset('assets/images/insights/research_and_analysis/2.jpg') }}" />
 
-                    <div class="p-5">
+                    <div class="p-4">
                         <h6 class="fs-4">Understanding Whales & Market Movers</h6>
 
                         <div class="d-flex mb-3" style="list-style: none; font-size: 11px;">
@@ -50,8 +51,9 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="research_box">
+                    <img src="{{ asset('assets/images/insights/research_and_analysis/3.jpg') }}" />
 
-                    <div class="p-5">
+                    <div class="p-4">
                         <h6 class="fs-4">Common Trading Mistakes</h6>
 
                         <div class="d-flex mb-3" style="list-style: none; font-size: 11px;">
@@ -73,8 +75,9 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="research_box">
+                    <img src="{{ asset('assets/images/insights/research_and_analysis/4.jpg') }}" />
 
-                    <div class="p-5">
+                    <div class="p-4">
                         <h6 class="fs-4">Diversification</h6>
 
                         <div class="d-flex mb-3" style="list-style: none; font-size: 11px;">
@@ -97,8 +100,9 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="research_box">
+                    <img src="{{ asset('assets/images/insights/research_and_analysis/5.jpg') }}" />
 
-                    <div class="p-5">
+                    <div class="p-4">
                         <h6 class="fs-4">Smart Contracts</h6>
 
                         <div class="d-flex mb-3" style="list-style: none; font-size: 11px;">
@@ -121,8 +125,9 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="research_box">
+                    <img src="{{ asset('assets/images/insights/research_and_analysis/6.jpg') }}" />
 
-                    <div class="p-5">
+                    <div class="p-4">
                         <h6 class="fs-4">Swing Trading vs Day Trading</h6>
 
                         <div class="d-flex mb-3" style="list-style: none; font-size: 11px;">
@@ -145,8 +150,9 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="research_box">
+                    <img src="{{ asset('assets/images/insights/research_and_analysis/7.jpg') }}" />
 
-                    <div class="p-5">
+                    <div class="p-4">
                         <h6 class="fs-4">Circulating vs Total Supply</h6>
 
                         <div class="d-flex mb-3" style="list-style: none; font-size: 11px;">
@@ -169,8 +175,9 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="research_box">
+                    <img src="{{ asset('assets/images/insights/research_and_analysis/8.jpg') }}" />
 
-                    <div class="p-5">
+                    <div class="p-4">
                         <h6 class="fs-4">What is “Market Cap”?</h6>
 
                         <div class="d-flex mb-3" style="list-style: none; font-size: 11px;">
@@ -193,8 +200,9 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="research_box">
+                    <img src="{{ asset('assets/images/insights/research_and_analysis/9.jpg') }}" />
 
-                    <div class="p-5">
+                    <div class="p-4">
                         <h6 class="fs-4">Mindset for Crypto</h6>
 
                         <div class="d-flex mb-3" style="list-style: none; font-size: 11px;">
@@ -218,8 +226,9 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="research_box">
+                    <img src="{{ asset('assets/images/insights/research_and_analysis/10.jpg') }}" />
 
-                    <div class="p-5">
+                    <div class="p-4">
                         <h6 class="fs-4">Trader vs Analyst</h6>
 
                         <div class="d-flex mb-3" style="list-style: none; font-size: 11px;">
