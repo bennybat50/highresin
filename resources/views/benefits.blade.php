@@ -109,32 +109,35 @@
 <div class="content_section py-5">
     <div class="container py-2">
         <div class="row">
-            <div class="col-lg-6 p-5">
-                <div class="" style="padding: 100px;"></div>
-                <h5>Private Asset Management</h5>
+            <div class="col-lg-6">
+                <div class="insights-img-section">
+                    <!-- <div class="insights-top-banner-right"></div> -->
+                    <img src="{{ asset('assets/images/insights/benefits/5.jpg') }}" alt="" class="pt-5 insights-img-right">
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="" style="padding: 50px;"></div>
+                <h5 class="fs-2 fw-bold"><i>Private Asset Management</i></h5>
 
-                <p>Investors with $1 million or more in assets can choose to have Highresin professionals manage their
+                <p class="fs-4">Investors with $1 million or more in assets can choose to have Highresin professionals manage their
                     investment portfolio in a discretionary asset management account according to specified objectives
                     and customized investment management centered on your goals.</p>
 
-                <h6>GET THE HIGH-TOUCH ASSET MANAGEMENT YOU DESERVE.</h6>
+                <h6 class="fs-4">GET THE HIGH-TOUCH ASSET MANAGEMENT YOU DESERVE.</h6>
 
-                <p>
+                <p class="fs-4">
                     After all, you’ve done to build your wealth, you want a partner to help preserve and grow your
                     assets. Working together, we'll design and manage a custom investment program that is unique to you
                     and your objectives—and integrates with your overall wealth strategy.
                 </p>
 
-                <p>Key program features include:</p>
-                <ul>
+                <p class="fs-4">Key program features include:</p>
+                <ul class="fs-5">
                     <li>Privately managed portfolios tailored to your needs.</li>
                     <li>Global investment resources and personalized boutique service.</li>
                     <li>Access to a wide range of assets and global equities and fixed income securities.</li>
                     <li>Exclusively available for investors with $1 million or more to invest (per account).</li>
                 </ul>
-            </div>
-            <div class="col-lg-6">
-                <img src="{{ asset('assets/images/insights/benefits/5.jpg') }}" />
             </div>
         </div>
     </div>

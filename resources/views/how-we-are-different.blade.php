@@ -29,6 +29,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="diff_box">
+                    <i class="fas fa-heartbeat fa-3x px-4 pt-4" style="color: #f5325c;"></i>
                     <h4 class="b-bottom p-4">Advice that is always in your best interest</h4>
 
                     <p class="p-4 fs-5">
@@ -45,6 +46,7 @@
 
             <div class="col-lg-4">
                 <div class="diff_box">
+                    <i class="fas fa-user-check fa-3x px-4 pt-4" style="color: #f5325c;"></i>
                     <h4 class="b-bottom p-4">A portofolio tailored to your needs</h4>
 
                     <p class="p-4 fs-5">
@@ -62,6 +64,7 @@
 
             <div class="col-lg-4">
                 <div class="diff_box">
+                    <i class="fas fa-comments fa-3x px-4 pt-4" style="color: #f5325c;"></i>
                     <h4 class="b-bottom p-4">Commuunication and Counsel to help you stay on track</h4>
 
                     <p class="p-4 fs-5">
@@ -102,13 +105,15 @@
             </div>
 
             <div class="col-lg-6">
-                <img src="{{ asset('assets/images/insights/how_we_diff/2.jpg') }}" style="border-radius: 30px; height: 420px;" />
+                <img src="{{ asset('assets/images/insights/how_we_diff/2.jpg') }}" class="insights-img-right"
+                    style="border-radius: 10px; height: 300px;" />
             </div>
         </div>
 
         <div class="row mt-5 pt-5">
             <div class="col-lg-6">
-                <img src="{{ asset('assets/images/insights/how_we_diff/3.jpg') }}" style="border-radius: 30px;" />
+                <img src="{{ asset('assets/images/insights/how_we_diff/3.jpg') }}" class="insights-img-right"
+                    style="border-radius: 10px; height: 300px;" />
             </div>
             <div class="col-lg-6">
                 <div class="" style="padding: 100px;">

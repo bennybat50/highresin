@@ -157,7 +157,7 @@
 <div class="content_section py-5">
     <div class="container py-5">
         <div class="row">
-            <div class="col-lg-8">
+            <div class="col-lg-8 p-4">
                 <h6 class="fs-3">Tailored Portfolio</h6>
                 <p class="fs-5">Much like a tailor who alters the hem, sleeves, and collar of a suit to fit an
                     individual's

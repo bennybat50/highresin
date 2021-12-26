@@ -5982,3 +5982,10 @@ figcaption {
 .insights-img-right{margin-right: 20px; width: 90%;height: 450px !important; object-fit: cover;}
 .insights-img-main{width: 100%; height: 500px; object-fit: cover;}
 /* ======= Insights General REference CSS End ========== */
+
+/* ============ Client Program CSS Start ===================== */
+.client-program-welcome{
+  background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/client-programs/bg.jpg');
+}
+
+/* ============= Client Program CSS End ====================== */

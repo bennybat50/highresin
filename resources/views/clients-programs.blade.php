@@ -1,7 +1,7 @@
 @extends('templates.public')
 @section('content')
 
-<div class="what-we-do-welcome">
+<div class="what-we-do-welcome client-program-welcome">
     <div class="welcome-sec text-center">
         <div class="container">
             <div class="p-5">
@@ -25,7 +25,7 @@
 <div class="content_section py-5">
     <div class="container">
         <div class="row">
-            <p class="text-center">
+            <p class="text-center fs-4">
                 Highresin continuously seeks new ways to enrich our client experience. In addition to helping you
                 achieve your long-term financial goals via portfolio management, we created a series of programs aimed
                 at providing you with timely updates and education regarding the financial markets and your portfolio.
@@ -45,15 +45,15 @@
     </div>
 </div>
 
-<div class="content_section py-5">
+<div class="content_section py-3">
     <div class="container">
-        <h2 class="text-uppercase text-center mb-5 pb-4">What to expect as a new client</h2>
+        <h2 class="text-uppercase fs-1 fw-bold text-center mb-5 pb-4">What to expect as a new client</h2>
         <div class="row">
             <div class="col-lg-6">
                 <div class="" style="padding: 90px;">
-                    <h3>DISCOVER HOW YOUR NEEDS COME FIRST WHEN BECOMING A HIGHRESIN CLIENT</h3>
+                    <h3 class="fs-3 fs-bold mb-3"><i>DISCOVER HOW YOUR NEEDS COME FIRST WHEN BECOMING A HIGHRESIN CLIENT</i></h3>
 
-                    <p>
+                    <p class="fs-5">
                         Moving your life’s savings can be overwhelming—we understand. You’ve placed a great amount of
                         trust
                         in our hands by giving us the opportunity to manage your money. We want to make sure the
@@ -62,7 +62,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 p-3">
                 <div class="insights-img-section">
                     <div class="insights-top-banner-right"></div>
                     <img src="{{ asset('assets/images/insights/client-programs/1.jpg') }}" alt=""
@@ -77,7 +77,7 @@
 <div class="content_section py-5">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-6 p-3">
                 <div class="insights-img-section">
                     <div class="insights-top-banner-right"></div>
                     <img src="{{ asset('assets/images/insights/client-programs/2.jpg') }}" alt=""
@@ -86,9 +86,9 @@
             </div>
             <div class="col-lg-6">
                 <div class="" style="padding: 90px;">
-                    <h3>YOUR TAILORED PORTFOLIO RECOMMENDATION</h3>
+                    <h3 class="fs-3 fs-bold mb-3"><i>YOUR TAILORED PORTFOLIO RECOMMENDATION</i></h3>
 
-                    <p>
+                    <p class="fs-5">
                         From there, your Investment Counselor will work with our Portfolio Evaluation Group, which will
                         provide a portfolio recommendation tailored to your needs. You’ll learn exactly how we plan to
                         manage your hard-earned money and how our plan accommodates the income needs you and your family
@@ -107,9 +107,9 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="" style="padding: 90px;">
-                    <h6>JOINING THE HIGHRESIN FAMILY</h6>
+                    <h6 class="fs-3 fs-bold mb-3"><i>JOINING THE HIGHRESIN FAMILY</i></h6>
 
-                    <p>
+                    <p class="fs-5">
                         Once you’ve decided Highresin is the right choice for your retirement, we’ll use a hands-on
                         approach
                         to setting up your account. We will manage the operations, reduce the amount of paperwork you
@@ -133,7 +133,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 p-3">
                 <div class="insights-img-section">
                     <div class="insights-top-banner-right"></div>
                     <img src="{{ asset('assets/images/insights/client-programs/3.jpg') }}" alt=""
@@ -147,7 +147,7 @@
 <div class="content_section mt-5 py-5">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-6 p-3">
                 <div class="insights-img-section">
                     <div class="insights-top-banner-right"></div>
                     <img src="{{ asset('assets/images/insights/client-programs/4.jpg') }}" alt=""
@@ -156,9 +156,9 @@
             </div>
             <div class="col-lg-6">
                 <div class="" style="padding: 90px;">
-                    <h6>ONGOING SUPPORT</h6>
+                    <h6 class="fs-3 fs-bold mb-3"><i>ONGOING SUPPORT</i></h6>
 
-                    <p>
+                    <p class="fs-5">
                         fter your portfolio is set up and you are fully on-boarded as a client, your Investment
                         Counselor
                         will continually keep you up to date on your portfolio and Highresins’ views on the global stock
