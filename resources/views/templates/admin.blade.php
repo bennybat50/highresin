@@ -223,14 +223,14 @@
                 <li>
 					<a href="activities"><div class="pull-left"><i class="fa fa-area-chart mr-20" aria-hidden="true"></i><span class="right-nav-text">Activities</span></div><div class="clearfix"></div></a>
 				</li>
-                <li><hr class="light-grey-hr mb-10"/></li>
-                <li>
+                {{-- <li><hr class="light-grey-hr mb-10"/></li> --}}
+                {{-- <li>
 					<a href="traders"><div class="pull-left"><i class="fa fa-users mr-20" aria-hidden="true"></i><span class="right-nav-text">Traders Account</span></div><div class="clearfix"></div></a>
-				</li>
+				</li> --}}
 
-                <li><hr class="light-grey-hr mb-10"/></li>
+                {{-- <li><hr class="light-grey-hr mb-10"/></li> --}}
 
-				<li>
+				{{-- <li>
 					<a href="javascript:void(0);" data-toggle="collapse" data-target="#ecom_dr"><div class="pull-left"><i class="fa fa-money mr-20"></i><span class="right-nav-text">Payment / Funding </span></div><div class="pull-right"><i class="zmdi zmdi-caret-down"></i></div><div class="clearfix"></div></a>
 					<ul id="ecom_dr" class="collapse collapse-level-1">
 						<li>
@@ -243,7 +243,7 @@
 							<a href="payment-history">Payment History</a>
 						</li>
 					</ul>
-				</li>
+				</li> --}}
 
                 <li><hr class="light-grey-hr mb-10"/></li>
 
@@ -277,9 +277,9 @@
 					</ul>
 				</li>
 
-                <li><hr class="light-grey-hr mb-10"/></li>
+                {{-- <li><hr class="light-grey-hr mb-10"/></li> --}}
 
-                <li>
+                {{-- <li>
 					<a href="javascript:void(0);" data-toggle="collapse" data-target="#ui_dr"><div class="pull-left"><i class="fa fa-usd  mr-20" aria-hidden="true"></i><span class="right-nav-text">Bond </span></div><div class="pull-right"><i class="zmdi zmdi-caret-down"></i></div><div class="clearfix"></div></a>
 					<ul id="ui_dr" class="collapse collapse-level-1">
 						<li>
@@ -290,11 +290,11 @@
 						</li>
 
 					</ul>
-				</li>
-                <li><hr class="light-grey-hr mb-10"/></li>
+				</li> --}}
+                {{-- <li><hr class="light-grey-hr mb-10"/></li>
                 <li>
 					<a href=""><div class="pull-left"><i class="fa fa-envelope mr-20" aria-hidden="true"></i><span class="right-nav-text">Send Mail</span></div><div class="clearfix"></div></a>
-				</li>
+				</li> --}}
                 <li><hr class="light-grey-hr mb-10"/></li>
                 <li>
 					<a href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();"><div class="pull-left"><i class="fa fa-sign-out  mr-20" aria-hidden="true"></i><span class="right-nav-text">Logout</span></div><div class="clearfix"></div></a>

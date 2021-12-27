@@ -5901,7 +5901,37 @@ figcaption {
 /* home css end */
 
 /* aboutpage css start */
+.about-sections hr{height: 6px !important; background-color: #0040785a;}
+.about-us-welcome{width: 100%; height: 750px; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/about/welcome.jpg");
+    background-position: center; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
+.about-us-welcome .welcome-sec h4{padding-top: 240px; font-size: 18px; }
+.about-sections .top-section{background-color:#F1F1F1 ;}
+.about-sections .top-section h1{font-size: 60px;}
+.about-sections .top-section p{color: #1ab7ad; font-size: 18px;}
+.about-sections .top-section .small-line{width: 40%; height: 4px; background-color: #011b32; margin: auto;}
+.about-sections .section1 .tri-content{ position: absolute; margin-top: 120px; }
 
+.about-sections .section1 img{height: 400px; width: 80%; object-fit:cover ; margin-top: 100px;}
+.about-sections #triangle-topleft {
+    width: 100%;
+    height: 500px;
+    border-bottom: 680px solid #00475E;
+    border-right: 2200px solid transparent;
+}
+.about-sections .section2 img{height: 180px; width: 100%; object-fit:cover ; }
+.about-sections .section3{background-color: #F2F2F2;}
+.about-sections .section4 ul{color: #000;}
+.about-sections .section4 img{height: 680px; width: 100%; object-fit:cover ;  }
+.about-sections .section6 .tri-content{ position: absolute; margin-top: 120px; }
+.about-sections .section6 .tri-content ul{color: #000;}
+.about-sections .section6 img{height: 580px; width: 85%; object-fit:cover ; margin: auto; margin-top: 30px; }
+.about-sections .section6 .tri-content .content{margin-top: 120px;}
+.about-sections #triangle-topright {
+    width: 100%;
+    height: 500px;
+    border-bottom: 750px solid #E3EBED;
+    border-left: 1500px solid transparent;
+}
 /* aboutpage css end */
 
 

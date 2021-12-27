@@ -43,6 +43,7 @@
                 <div>Overview</div>
               </div>
               <nav class="dropdown-list w-dropdown-list">
+                <a href="about-us" class="dropdown-link w-dropdown-link w--current">About Us</a>
                 <a href="what-we-do" class="dropdown-link w-dropdown-link w--current">What we do</a>
                 <a href="investment-approach" class="dropdown-link w-dropdown-link w--current">Investment Approach</a>
                 <a href="investment-capabilities" class="dropdown-link w-dropdown-link w--current">Investment Capabilities</a>

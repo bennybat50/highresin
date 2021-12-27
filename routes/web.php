@@ -90,6 +90,9 @@ Route::get('/our-history', function () {
 Route::get('/blog', function () {
     return view('blog');
 });
+Route::get('/about-us', function () {
+    return view('about-us');
+});
 Route::get('/why-highresin', function () {
     return view('why-highresin');
 });

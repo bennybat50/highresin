@@ -2279,7 +2279,7 @@ button.fc-agendaWeek-button, .fc-prev-button, .fc-next-button, .fc-today-button 
           font-size: 18px;
           width: 18px; }
         .fixed-sidebar-left .side-nav li a .pull-right i {
-          color: #878787; }
+          color: #ebebeb; }
     .fixed-sidebar-left .side-nav > li > a {
       color: #212121;
       padding: 7px 15px; }
@@ -2595,7 +2595,7 @@ a#toggle_mobile_nav {
   .wrapper.theme-1-active .fixed-sidebar-left {
     z-index: 1030; }
     .wrapper.theme-1-active .fixed-sidebar-left .side-nav {
-      background: #084567; }
+      background: #1286c9; }
   .wrapper.theme-2-active .navbar.navbar-inverse.navbar-fixed-top {
     background: #2a3e4c;
     border-bottom: 1px solid #2a3e4c; }
@@ -7322,7 +7322,7 @@ ul.inbox-nav li a:hover, ul.inbox-nav li.active a, ul.inbox-nav li a:focus {
 
     /* new css */
 
-    .data-table-head{background-color: #154E6F; color: white; }
+    .data-table-head{background-color: #1286c9; color: white; }
     .data-table-head .hd{font-size: 14px; color: white}
     .form-control,.panel{border-radius: 0px !important;}
 
