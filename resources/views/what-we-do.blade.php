@@ -36,8 +36,8 @@
                 </div>
                 <div class="col-md-9">
                     <div class="content p-3">
-                        <h3>Our unique technological capabilities, multi-faceted investment strategies and culture of integrity shape our position as a leading financial services provider.
-                        </h3>
+                        <h3><b>Our unique technological capabilities, multi-faceted investment strategies and culture of integrity shape our position as a leading financial services provider.
+                        </b></h3>
                         <br>
                         <p>Northern Trust is a preeminent global financial institution that provides asset servicing, investment management and wealth management services for institutions, high-net-worth individuals and families. For more than 130 years, our success has been anchored in one purpose: to serve as our clients’ most trusted financial partner, guarding and growing their assets as though they are our own.
                         </p>
