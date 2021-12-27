@@ -299,66 +299,66 @@
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <div class="border-column ">
+
                             <h3 class="p-4"><b>Putting Clients First</b></h3>
-                            <div class="vertical-line"></div>
+                            <hr>
                             <div class="p-4">
                                 <p>We do things differently than other investment firms—not just to be different, but because it makes a difference for our clients. We designed our entire business to minimize conflicts of interest. We have a strong division of labour between our sales and service roles, allowing employees in each role to focus on their strengths.
                                     At Highresin, our client service is wholly focused on providing superior service, with no additional sales. This clear focus on servicing our clients is what makes Highresin a better place to work, too.
                                 </p>
-                            </div>
+
                         </div>
                     </div>
                     <div class="col-md-6 ">
-                        <div class="border-column ">
+
                             <h3 class="p-4"><b>Diversity and Inclusion</b></h3>
-                            <div class="vertical-line"></div>
+                            <hr>
                             <div class="p-4">
                                 <p>We do things differently than other investment firms—not just to be different, but because it makes a difference for our clients. We designed our entire business to minimize conflicts of interest. We have a strong division of labour between our sales and service roles, allowing employees in each role to focus on their strengths.
                                     At Highresin, our client service is wholly focused on providing superior service, with no additional sales. This clear focus on servicing our clients is what makes Highresin a better place to work, too.
                                 </p>
-                            </div>
+
                         </div>
                     </div>
                     <div class="col-md-6 ">
-                        <div class="border-column ">
+
                             <h3 class="p-4"><b>Opportunity</b></h3>
-                            <div class="vertical-line"></div>
+                           <hr>
                             <div class="p-4">
                                 <p>Our employees drive our firm’s success, and we support their development by providing opportunities for everyone to succeed. We hire and promote employees based on their merit, potential and “will-do” attitude.
                                     Each employee is empowered to achieve excellence as they grow a lifelong Highresin career. While everyone forges their own unique path at Highresin, we are all on a journey together—a journey to better the investment universe.
                                 </p>
-                            </div>
+
                         </div>
                     </div>
                     <div class="col-md-6 ">
-                        <div class="border-column ">
+
                             <h3 class="p-4"><b>Recognition</b></h3>
-                            <div class="vertical-line"></div>
+                           <hr>
                             <div class="p-4">
                                 <p>Hard work and dedication are recognized and rewarded at Highresin because our employees’ contributions are what make our success possible.
                                     We celebrate wins of all sizes and make sure each employee’s great work does not go unnoticed. Authentic recognition is the norm across every level, role, department and country to encourage and reinforce our values.
                                 </p>
-                            </div>
+
                         </div>
                     </div>
                     <div class="col-md-12 ">
-                        <div class="border-column ">
+
                             <h3 class="p-4"><b>Support</b></h3>
-                            <div class="vertical-line"></div>
+                           <hr>
                             <div class="p-4">
                                 <p>We support each other. In our open office environment, everyone from entry-level employees to VPs shares the same space and is treated as an equal. Teams are motivated to collaborate on projects and interact without physical or organizational barriers.
                                     Our customized development programs and award-winning training help employees excel in their current roles while gaining new skills to prepare for their next one. To support employees’ health, wellness and family life, we offer a robust benefits package and on-site services that help make employees’ busy lives a little easier. At Highresin we have each other's backs.
                                 </p>
                             </div>
-                        </div>
+
                     </div>
 
                 </div>
                 <br>
                 <br>
                 <br>
-                
+
                </div>
         </div>
     </div>

@@ -5935,6 +5935,7 @@ figcaption {
 
 
 /* What we do css start */
+.about-what-we-do-sections hr{height: 6px !important; background-color: #0040785a;}
 .what-we-do-welcome{width: 100%; height: 750px; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/what-we-do/welcome-bg.jpg");
     background-position: top; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
 .what-we-do-welcome .welcome-sec h4{padding-top: 180px; font-size: 25px; }
