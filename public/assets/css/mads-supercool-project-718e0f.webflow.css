@@ -5908,13 +5908,13 @@ figcaption {
 .about-sections .top-section h1{font-size: 60px;}
 .about-sections .top-section p{color: #1ab7ad; font-size: 18px;}
 .about-sections .top-section .small-line{width: 40%; height: 4px; background-color: #011b32; margin: auto;}
-.about-sections .section1 .tri-content{ position: absolute; margin-top: 120px; }
+.about-sections .section1 .tri-content{ position: absolute; margin-top: 130px; }
 
-.about-sections .section1 img{height: 400px; width: 80%; object-fit:cover ; margin-top: 100px;}
+.about-sections .section1 img{height: 400px; width: 80%; object-fit:cover ; margin-top: 130px;}
 .about-sections #triangle-topleft {
     width: 100%;
     height: 500px;
-    border-bottom: 680px solid #00475E;
+    border-bottom: 740px solid #00475E;
     border-right: 2200px solid transparent;
 }
 .about-sections .section2 img{height: 180px; width: 100%; object-fit:cover ; }
@@ -5939,9 +5939,9 @@ figcaption {
     background-position: top; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
 .what-we-do-welcome .welcome-sec h4{padding-top: 180px; font-size: 25px; }
 
-.what-we-do-sections .section1 img{ height: 550px; width: 100%; object-fit: cover; object-position: center;}
-.what-we-do-sections .section2{background-color: #e3f2ff42;}
-.what-we-do-sections .section3 .section-bg{width: 100%; height: 700px; background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.701), rgba(0, 0, 0, 0.700)), url("../images/what-we-do/culture.jpg");
+.about-what-we-do-sections .section1 img{ height: 550px; width: 100%; object-fit: cover; object-position: center;}
+.about-what-we-do-sections .section2{background-color: #e3f2ff42;}
+.about-what-we-do-sections .section3 .section-bg{width: 100%; height: 700px; background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.701), rgba(0, 0, 0, 0.700)), url("../images/what-we-do/culture.jpg");
     background-position: right; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
     /* .what-we-do-sections .section4 .border-column {} */
 /* What we do css end */
