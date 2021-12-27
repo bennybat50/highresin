@@ -221,7 +221,7 @@
                 <div class="row">
                     <div class="col-md-1"></div>
                     <div class="col-md-4">
-                        <img src="{{ asset('assets/images/what-we-do/purpose.jpg') }}" alt="">
+                        <img src="{{ asset('assets/images/about/purpose.jpg') }}" alt="">
                     </div>
                     <div class="col-md-6">
                         <br>
@@ -246,7 +246,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-5">
-                        <img src="{{asset('assets/images/what-we-do/capabilities.jpg') }}" alt="">
+                        <img src="{{asset('assets/images/about/capabilities.jpg') }}" alt="">
                         <br>
                         <br>
                         <h2>INVESTMENT <b><i>CAPABILITIES</i></b></h2>
@@ -256,7 +256,7 @@
                     </div>
                     <div class="col-md-1"></div>
                     <div class="col-md-5">
-                        <img src="{{asset('assets/images/what-we-do/approach.jpg') }}" alt="">
+                        <img src="{{asset('assets/images/about/approach.jpg') }}" alt="">
                         <br>
                         <br>
                         <h2>INVESTMENT <b><i>APPROACH</i></b></h2>

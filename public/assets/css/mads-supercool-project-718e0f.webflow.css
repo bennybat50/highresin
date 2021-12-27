@@ -5931,19 +5931,40 @@ figcaption {
     border-bottom: 750px solid #E3EBED;
     border-left: 1500px solid transparent;
 }
+.about-what-we-do-sections hr{height: 6px !important; background-color: #0040785a;}
+.about-what-we-do-sections .section1 img{ height: 550px; width: 100%; object-fit: cover; object-position: center;}
+.about-what-we-do-sections .section2{background-color: #e3f2ff42;}
+.about-what-we-do-sections .section3 .section-bg{width: 100%; height: 700px; background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.701), rgba(0, 0, 0, 0.700)), url("../images/about/culture.jpg");
+    background-position: right; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
 /* aboutpage css end */
 
 
 /* What we do css start */
-.about-what-we-do-sections hr{height: 6px !important; background-color: #0040785a;}
+
 .what-we-do-welcome{width: 100%; height: 750px; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/what-we-do/welcome-bg.jpg");
     background-position: top; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
 .what-we-do-welcome .welcome-sec h4{padding-top: 180px; font-size: 25px; }
 
-.about-what-we-do-sections .section1 img{ height: 550px; width: 100%; object-fit: cover; object-position: center;}
-.about-what-we-do-sections .section2{background-color: #e3f2ff42;}
-.about-what-we-do-sections .section3 .section-bg{width: 100%; height: 700px; background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.701), rgba(0, 0, 0, 0.700)), url("../images/what-we-do/culture.jpg");
-    background-position: right; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
+.what-we-do-section .section1{margin-top: -50px; }
+.what-we-do-section .section1 .aside1{background-color: rgb(2, 69, 62); margin-top: 30px;}
+.what-we-do-section .section1 .aside1 hr{height: 1px; background-color: #eaeaea;}
+.what-we-do-section .section1 .aside1 a{text-decoration: none; color: white;}
+.what-we-do-section .section1 .aside1 a:hover{color: #c4c4c4;}
+.what-we-do-section .section1 .content{background-color: #fff; padding: 40px;}
+
+.what-we-do-section .section1 .aside2{background-color: #0A7A82;}
+.what-we-do-section .section1 .aside2 hr{height: 1px; background-color: #eaeaea;}
+.what-we-do-section .section1 .aside2 a{text-decoration: none; color: white; padding: 10px; border: 1px solid white;}
+.what-we-do-section .section1 .aside2 a:hover{color: #c4c4c4;}
+.what-we-do-section .section1 .aside2-icons img{height: 100px; margin-bottom: 20px;}
+.what-we-do-section .section1 .aside2-icons h3{font-size: 16px; font-weight: 700;}
+
+.what-we-do-section .section1 .aside3{background-color: #072B1F;}
+.what-we-do-section .section1 .aside3 a{text-decoration: none; color: white; padding: 10px; border: 1px solid white;}
+.what-we-do-section .section1 .aside3 a:hover{color: #c4c4c4;}
+.what-we-do-section .section1 .aside3-imgs .content { padding: 0px; border: 1px solid #eaeaea; height: 420px;}
+.what-we-do-section .section1 .aside3-imgs .content h3{padding: 5px; font-size: 20px !important;}
+.what-we-do-section .section1 .aside3-imgs .content p{padding: 5px;}
     /* .what-we-do-sections .section4 .border-column {} */
 /* What we do css end */
 
