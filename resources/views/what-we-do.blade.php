@@ -51,7 +51,7 @@
             <div class="row" id="asset-service">
                 <div class="col-md-3">
                     <div class="aside2 p-5">
-                        <h3 class="text-white">Inquire About Our Services</h3>
+                        <h2 class="text-white">Inquire About Our Services</h2>
                         <p class="text-white">Connect with our sales teams to explore ways to partner with us.
                         </p>
                         <br>
@@ -91,7 +91,7 @@
             <div class="row" >
                 <div class="col-md-3">
                     <div class="aside3 p-5">
-                        <h3 class="text-white">The Northern Trust Institute</h3>
+                        <h2 class="text-white">The Northern Trust Institute</h2>
                         <p class="text-white">Explore wealth strategies that are informed by research, grounded in real-world outcomes and tailored to you.
                         </p>
                         <br>
