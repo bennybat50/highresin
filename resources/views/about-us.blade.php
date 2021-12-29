@@ -47,6 +47,35 @@
            </div>
         </div>
     </div>
+    <div class="about-what-we-do-sections">
+        <div class="section1 mb-5">
+                <div class="container">
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <img src="{{ asset('assets/images/about/purpose.jpg') }}" alt="">
+                        </div>
+                        <div class="col-md-6">
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <div class="p-5">
+                                <h1><b>A LEGACY OF <b><i>PURPOSE</i></b>.</b></h1>
+                                <hr>
+                                <h4><i><b>We work every day to do right by our clients, so they <br> can invest confidently toward their financial futures.</b></i></h4>
+                                <p>HighResin Group is a global asset management organization with over $15 million in assets under management as of February 28, 2021. The organization provides a broad array of asset classes, mutual funds, sub-advisory services, and separate account management for individual and institutional investors, retirement plans, and financial intermediaries. </p>
+                                <p>HighResin also offers sophisticated investment planning and guidance tools. A disciplined, risk-aware investment approach focuses on diversification, style consistency, and fundamental research.
+
+                                </p>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="section1">
         <div class="tri-content">
             <div class="container-fluid">
@@ -214,33 +243,7 @@
     </div>
 </div>
 <div class="about-what-we-do-sections">
-    <div class="section1 mb-5">
-        <div class="content-section">
-            <div class="container">
 
-                <div class="row">
-                    <div class="col-md-1"></div>
-                    <div class="col-md-4">
-                        <img src="{{ asset('assets/images/about/purpose.jpg') }}" alt="">
-                    </div>
-                    <div class="col-md-6">
-                        <br>
-                        <br>
-                        <div class="p-5">
-                            <h1><b>A LEGACY OF PURPOSE.</b></h1>
-                            <hr>
-                            <h4><i><b>We work every day to do right by our clients, so they <br> can invest confidently toward their financial futures.</b></i></h4>
-                            <p>HighResin Group is a global asset management organization with over $15 million in assets under management as of February 28, 2021. The organization provides a broad array of asset classes, mutual funds, sub-advisory services, and separate account management for individual and institutional investors, retirement plans, and financial intermediaries. </p>
-                            <p>HighResin also offers sophisticated investment planning and guidance tools. A disciplined, risk-aware investment approach focuses on diversification, style consistency, and fundamental research.
-
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-md-1"></div>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="section2">
         <div class="content-section">
             <div class="container">
@@ -254,7 +257,7 @@
                         <p><b><i>Expertise across all asset classes and the globe.</i></b></p>
                         <p>As global investment manager, we actively listen, anticipate, and develop strategies that respond to the needs of our clients. </p>
                     </div>
-                    <div class="col-md-1"></div>
+                    <div class="col-md-2"></div>
                     <div class="col-md-5">
                         <img src="{{asset('assets/images/about/approach.jpg') }}" alt="">
                         <br>
@@ -318,8 +321,8 @@
                             <h3 class="p-4"><b>Diversity and Inclusion</b></h3>
                             <hr>
                             <div class="p-4">
-                                <p>We do things differently than other investment firms—not just to be different, but because it makes a difference for our clients. We designed our entire business to minimize conflicts of interest. We have a strong division of labour between our sales and service roles, allowing employees in each role to focus on their strengths.
-                                    At Highresin, our client service is wholly focused on providing superior service, with no additional sales. This clear focus on servicing our clients is what makes Highresin a better place to work, too.
+                                <p>Everyone is welcome at Highresin. We value diverse perspectives and encourage innovation and forward-thinking. <br> We seek those who aren’t afraid to try something different and are open to considering new processes and approaches.
+                                  <br>  That’s why we hire people from different backgrounds, with different points of view, and why 49% of employees are led by women.
                                 </p>
 
                         </div>
@@ -340,8 +343,8 @@
                             <h3 class="p-4"><b>Recognition</b></h3>
                            <hr>
                             <div class="p-4">
-                                <p>Hard work and dedication are recognized and rewarded at Highresin because our employees’ contributions are what make our success possible.
-                                    We celebrate wins of all sizes and make sure each employee’s great work does not go unnoticed. Authentic recognition is the norm across every level, role, department and country to encourage and reinforce our values.
+                                <p>Hard work and dedication are recognized and rewarded at Highresin <br> because our employees’ contributions are what make our success possible.
+                                  <br>  We celebrate wins of all sizes and make sure each employee’s great work does not go unnoticed. <br> Authentic recognition is the norm across every level, role, department and country to encourage and reinforce our values.
                                 </p>
 
                         </div>
