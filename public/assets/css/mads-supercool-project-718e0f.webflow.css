@@ -6040,3 +6040,30 @@ figcaption {
 }
 
 /* ============= Client Program CSS End ====================== */
+
+
+/* ===============------ Investment Capabilities CSS START ----========= */
+.light-border-bottom{
+  border-bottom: 7px solid #e9eef3;
+}
+
+.blue-card{
+  background-color: #004078;
+  padding: 25px;
+  color: #fff !important;
+  min-height: 250px;
+  max-height: fit-content;
+  transition: .3s;
+}
+.blue-card:hover{
+  transform: scale(1.1);
+  box-shadow: 2px 1px 2px #0008;
+}
+.blue-card h4{
+  color: #fff !important;
+}
+.blue-card p{
+  color: #fff !important;
+  font-size: 13px;
+}
+/* ===============------ Investment Capabilities CSS END ----========= */
