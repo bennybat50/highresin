@@ -1,7 +1,7 @@
 @extends('templates.public')
 @section('content')
 
-<div class="what-we-do-welcome how_we_are_diff_welcome">
+<div class="what-we-do-welcome invest_cap_welcome">
     <div class="welcome-sec text-center">
         <div class="container">
             <div class="p-5">
@@ -46,7 +46,7 @@
 <div class="content_section">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-6 p-5">
                 <h3 class="text-capitalize fw-bold fs-1 light-border-bottom pb-3 mb-4">Asset Allocation</h3>
                 <h6 class="fs-3 mb-4"> <i>Innovation driven by our equity and fixed income</i> </h6>
 
@@ -60,7 +60,8 @@
                 </div>
             </div>
             <div class="col-md-6">
-
+                <img src="{{ asset('assets/images/overview/invest_cap/2.jpg') }}" class="insights-img-right"
+                    style="border-radius: 10px; height: 300px;" />
             </div>
         </div>
     </div>
@@ -145,23 +146,26 @@
                 </p>
             </div>
             <div class="col-md-6">
-
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-6">
-
-            </div>
-            <div class="col-md-6 p-5">
-                <h4 class="text-captalize fs-3 pb-3 mb-4 light-border-bottom">
-                    TRANSPARENT FEES</h4>
-                <p class="fs-5">
-                    You pay us a fee based on your portfolio size.
-                </p>
+                <img src="{{ asset('assets/images/overview/invest_cap/3.jpg') }}" class="insights-img-right"
+                    style="border-radius: 10px; height: 300px;" />
             </div>
         </div>
     </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <img src="{{ asset('assets/images/overview/invest_cap/4.jpg') }}" class="insights-img-right"
+                style="border-radius: 10px; height: 300px;" />
+        </div>
+        <div class="col-md-6 p-5">
+            <h4 class="text-captalize fs-3 pb-3 mb-4 light-border-bottom">
+                TRANSPARENT FEES</h4>
+            <p class="fs-5">
+                You pay us a fee based on your portfolio size.
+            </p>
+        </div>
+    </div>
+</div>
 </div>
 
 @endsection

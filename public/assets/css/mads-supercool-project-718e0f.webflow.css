@@ -6043,6 +6043,9 @@ figcaption {
 
 
 /* ===============------ Investment Capabilities CSS START ----========= */
+.invest_cap_welcome{
+  background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/overview/invest_cap/1.jpg');
+}
 .light-border-bottom{
   border-bottom: 7px solid #e9eef3;
 }
@@ -6067,3 +6070,23 @@ figcaption {
   font-size: 13px;
 }
 /* ===============------ Investment Capabilities CSS END ----========= */
+
+
+/* ===============------ Our Culture CSS START ----========= */
+.our_culture_welcome{
+  background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/overview/culture/1.jpg');
+}
+.c_card{
+  padding: 25px;
+  color: #fff !important;
+  min-height: 485px;
+  max-height: fit-content;
+  border: 1px solid #ccc;
+  transition: .3s;
+}
+.c_card:hover{
+  transform: scale(1.1);
+  box-shadow: 2px 1px 2px #0008;
+}
+
+/* ===============------ Our Culture Capabilities CSS END ----========= */
