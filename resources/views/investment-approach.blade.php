@@ -102,7 +102,7 @@ section {
                     We believe in strategic investing
                 </h1>
                 <br>
-                <p class="text-white font-20 pr-5">It has guided how we do business for more than 6 years, and it’s driven by independent thinking and rigorous research. <br> So our clients can be confident that we’ll strive to select the right investments as we help them achieve their objectives.
+                <p class="text-white font-20 pr-5">It has guided how we do business for more than 10 years, and it’s driven by independent thinking and rigorous research. <br> So our clients can be confident that we’ll strive to select the right investments as we help them achieve their objectives.
                 </p>
                 <br>
             </div>
@@ -287,7 +287,7 @@ section {
                 <div>
                   <section id="overview">
                     <h1><b><i>Overview</i></b></h1>
-                    <h3>Our investment philosophy is based on three core principles, built on decades of research and experience. By applying these principles, we seek to deliver sustainable, long-term value for our investors.
+                    <h3>Our investment philosophy is based on three core principles, built on a decade of research and experience. By applying these principles, we seek to deliver sustainable, long-term value for our investors.
                     </h3>
                     <br>
                    <div class="col-lg-7 col-md-12">
@@ -295,7 +295,7 @@ section {
                     <p>We rely on sound economic theory and analysis to help us deliver long-term, repeatable results. </p>
                     <hr>
                     <h4><b>Systematically Applied</b></h4>
-                    <p>A disciplined methodology underlies everything we do.  Our investment process, built over 20 years, is based on a continuous process of design, refine, test, repeat.  </p>
+                    <p>A disciplined methodology underlies everything we do.  Our investment process, built over 10 years, is based on a continuous process of design, refine, test, repeat.  </p>
                     <hr>
                     <h4><b>Thoughtfully Designed</b></h4>
                     <p>In portfolio construction, risk management and trading, we seek additional value for our clients. Using both qualitative and quantitative tools, we’re meticulous in every detail of the investment process.     </p>
@@ -312,7 +312,7 @@ section {
                        <div class="col-md-6">
                         <h1><b><i>Equities</i></b></h1>
                         <br>
-                        <p>For nearly two decades, our overall goal has been to build compelling and repeatable investments that are highly diversified across signals and regions, and within a risk-controlled framework.  We apply this systematic approach across our strategies, catering to the widespread investment needs of our clients</p>
+                        <p>For over a decade, our overall goal has been to build compelling and repeatable investments that are highly diversified across signals and regions, and within a risk-controlled framework.  We apply this systematic approach across our strategies, catering to the widespread investment needs of our clients</p>
                        </div>
                        <div class="col-md-6">
                            <img src="{{ asset('assets/images/approach/experience.jpg') }}" alt="">
@@ -344,7 +344,7 @@ section {
                         <div class="col-md-6">
                          <h1><b><i>Alternatives</i></b></h1>
                          <br>
-                         <p>As a pioneer in alternative investing, AQR has a long track record of managing the complexities of these types of strategies. By investing long and short, and balancing exposure to factors and asset classes, our alternative strategies are built to seek returns in both up and down markets. We offer both absolute return strategies, which target zero exposure to traditional markets, either at all times, or on average; and total return strategies, which maintain some exposure to traditional markets. </p>
+                         <p>As a pioneer in alternative investing, Highresin has a long track record of managing the complexities of these types of strategies. By investing long and short, and balancing exposure to factors and asset classes, our alternative strategies are built to seek returns in both up and down markets. We offer both absolute return strategies, which target zero exposure to traditional markets, either at all times, or on average; and total return strategies, which maintain some exposure to traditional markets. </p>
                         </div>
                         <div class="col-md-6">
                             <img src="{{ asset('assets/images/approach/experience.jpg') }}" alt="">
@@ -354,7 +354,7 @@ section {
                     <div class="col-lg-7 col-md-12">
                         <h4><b>Absolute Return</b></h4>
                         <h4>Absolute Return Strategy</h4>
-                        <p>Provides exposure to highly diversified portfolios, aggregating nearly all of AQR’s strategies in a multi-strategy format.
+                        <p>Provides exposure to highly diversified portfolios, aggregating nearly all of Highresin’s strategies in a multi-strategy format.
                         </p>
                         <h4><b>Arbitrage Strategies</b></h4>
                         <p>We offer convertible, merger and event-driven arbitrage strategies, or a diversified portfolio combining these strategies.
@@ -363,7 +363,7 @@ section {
                         <p>Strategies that build on Enhanced, but broaden the implementation universe through use of limited shorting in a 130/30 context while remaining beta-1 products.
                         </p>
                         <h4><b>Equity Market Neutral</b></h4>
-                        <p>Employs a multi-factor, market-neutral investment process based on AQR’s broadest global stock selection capabilities.
+                        <p>Employs a multi-factor, market-neutral investment process based on Highresin’s broadest global stock selection capabilities.
                         </p>
                         <h4><b>Global Macro</b></h4>
                         <p>Invests in major asset classes based on prices and macroeconomic fundamentals, using a variety of quantitative and qualitative inputs.
@@ -388,13 +388,13 @@ section {
                         <p>Offers a wide range of return sources including market risk premia, alternative risk premia, and alpha, with less of the reliance on rising prices for traditional assets that traditional diversified growth strategies can have.
                         </p>
                         <h4><b>Long-Short Equity</b></h4>
-                        <p>Employs our multi-factor investment process based on AQR’s broadest global stock selection capabilities, while maintaining a consistent net long exposure to the market.
+                        <p>Employs our multi-factor investment process based on Highresin’s broadest global stock selection capabilities, while maintaining a consistent net long exposure to the market.
                         </p>
                         <h4><b>Risk Parity</b></h4>
                         <p>Invests across global asset classes by risk allocation as opposed to capital, seeking to build a portfolio that is both broadly diversified, but not overly reliant on any single asset class.
                         </p>
                         <h4><b>Multi-Strategy</b></h4>
-                        <p>Offers a diversified approach to alternatives investing, seeking to provide broad exposure to several different AQR strategies at the same time.
+                        <p>Offers a diversified approach to alternatives investing, seeking to provide broad exposure to several different Highresin strategies at the same time.
                         </p>
 
                         <hr>
@@ -406,7 +406,7 @@ section {
                         <div class="col-md-6">
                          <h1><b><i>ESG</i></b></h1>
                          <br>
-                         <p>AQR is committed to helping our clients achieve their Environmental, Social and Governance (ESG) goals. Our primary objective for considering ESG issues is improving the risk/return trade-off of our clients' investments. We provide investors a variety of options to achieve their ESG objectives. Find out more about our ESG solutions and philosophy.
+                         <p>Highresin is committed to helping our clients achieve their Environmental, Social and Governance (ESG) goals. Our primary objective for considering ESG issues is improving the risk/return trade-off of our clients' investments. We provide investors a variety of options to achieve their ESG objectives. Find out more about our ESG solutions and philosophy.
                         </p>
                         </div>
                         <div class="col-md-6">
@@ -421,7 +421,7 @@ section {
                         <div class="col-md-6">
                          <h1><b><i>Tax-Aware Investing</i></b></h1>
                          <br>
-                         <p>AQR’s tax-aware approach is informed by decades of research and experience managing traditional and alternative investment strategies. Our research has created new possibilities for U.S. taxable investors at the intersection of prudent investing, income tax planning, and estate tax planning. Learn more about our tax-aware approach and solutions.
+                         <p>Highresin’s tax-aware approach is informed by decades of research and experience managing traditional and alternative investment strategies. Our research has created new possibilities for U.S. taxable investors at the intersection of prudent investing, income tax planning, and estate tax planning. Learn more about our tax-aware approach and solutions.
                         </p>
                         </div>
                         <div class="col-md-6">
@@ -436,7 +436,7 @@ section {
                         <div class="col-md-6">
                          <h1><b><i>Investment Vehicles</i></b></h1>
                          <br>
-                         <p>AQR strategies are available in a variety of investment vehicles, from offshore limited partnerships to mutual funds and model portfolios. We also offer tax-aware implementation of some of our strategies, which may help taxable investors better reach their after-tax investment goals.
+                         <p>Highresin strategies are available in a variety of investment vehicles, from offshore limited partnerships to mutual funds and model portfolios. We also offer tax-aware implementation of some of our strategies, which may help taxable investors better reach their after-tax investment goals.
                         </p>
                         </div>
                         <div class="col-md-6">
@@ -456,16 +456,7 @@ section {
                             <li>Collective Investment Trusts</li>
                         </ul>
                        </div>
-                        <h4><b>Registered Funds </b></h4>
-                        <p>We make many of our strategies accessible to individual investors through AQR-sponsored mutual funds, and offer options for investors in Europe and in Australia. Contact us to learn more.
-                        </p>
-                       <div class="list">
-                        <ul>
-                            <li>U.S. Mutual Funds</li>
-                            <li>UCITS</li>
-                            <li>Australian Funds</li>
-                        </ul>
-                       </div>
+
 
                       </div>
 
