@@ -39,7 +39,7 @@
                         <h3><b>Our unique technological capabilities, multi-faceted investment strategies and culture of integrity shape our position as a leading financial services provider.
                         </b></h3>
                         <br>
-                        <p>Northern Trust is a preeminent global financial institution that provides asset servicing, investment management and wealth management services for institutions, high-net-worth individuals and families. For more than 130 years, our success has been anchored in one purpose: to serve as our clients’ most trusted financial partner, guarding and growing their assets as though they are our own.
+                        <p>Highresin is a preeminent global financial institution that provides asset servicing, investment management and wealth management services for institutions, high-net-worth individuals and families. For more than 10 years, our success has been anchored in one purpose: to serve as our clients’ most trusted financial partner, guarding and growing their assets as though they are our own.
                         </p>
                         <br>
                         <p>We earn this trust by staying true to our steadfast fiduciary heritage and providing differentiated, exceptional service tailored to each client’s specific needs. Our market-leading technological capabilities—spanning from artificial intelligence for currency management, blockchain for fund administration and cloud-based solutions to deliver personalized wealth management services—allow us to deliver the highest level of service to our clients with speed and precision.
@@ -63,13 +63,12 @@
                         <div class="row aside2-icons text-center">
                             <div class="col-md-4">
                                 <img src="{{asset('assets/images/what-we-do/icon1.png') }}" alt="">
-                                <h3>AMERICA'S BEST BANKS</h3>
+                                <h3>Top 100 Asset Management Company </h3>
                                 <p>Forbes, 2020</p>
                             </div>
                             <div class="col-md-4">
                                 <img src="{{asset('assets/images/what-we-do/icon2.png') }}" alt="">
-                                <h3>BEST PRIVATE BANK
-                                    IN THE U.S.</h3>
+                                <h3>Responsible Investing Company</h3>
                                 <p>Financial Times Group, 2020
                                 </p>
                             </div>
@@ -91,7 +90,7 @@
             <div class="row" >
                 <div class="col-md-3">
                     <div class="aside3 p-5">
-                        <h2 class="text-white">The Northern Trust Institute</h2>
+                        <h2 class="text-white"> Highresin Institute</h2>
                         <p class="text-white">Explore wealth strategies that are informed by research, grounded in real-world outcomes and tailored to you.
                         </p>
                         <br>
@@ -129,7 +128,7 @@
                     </div>
                     <div class="content p-3" id="investment-management">
                         <h1>Investment Management</h1>
-                        <p>We are one of the world's largest asset managers, with approximately $1 trillion in assets under management. We construct innovative and efficient investment strategies that appropriately compensate investors for risk. Our services include mutual funds, ETFs, multi-asset solutions, retirement plan solutions and outsourced investment solutions.
+                        <p>We are one of the world's largest asset managers, with approximately $15 billion in assets under management. We construct innovative and efficient investment strategies that appropriately compensate investors for risk. Our services include mutual funds, ETFs, multi-asset solutions, retirement plan solutions and outsourced investment solutions.
                         </p><br>
                         <div class="row aside3-imgs ">
                             <div class="col-md-4 ">

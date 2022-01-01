@@ -66,7 +66,7 @@
                                 <h1><b>A LEGACY OF <b><i>PURPOSE</i></b>.</b></h1>
                                 <hr>
                                 <h4><i><b>We work every day to do right by our clients, so they <br> can invest confidently toward their financial futures.</b></i></h4>
-                                <p>HighResin Group is a global asset management organization with over $15 million in assets under management as of February 28, 2021. The organization provides a broad array of asset classes, mutual funds, sub-advisory services, and separate account management for individual and institutional investors, retirement plans, and financial intermediaries. </p>
+                                <p>HighResin Group is a global asset management organization with over $15 billion in assets under management as of February 28, 2021. The organization provides a broad array of asset classes, mutual funds, sub-advisory services, and separate account management for individual and institutional investors, retirement plans, and financial intermediaries. </p>
                                 <p>HighResin also offers sophisticated investment planning and guidance tools. A disciplined, risk-aware investment approach focuses on diversification, style consistency, and fundamental research.
 
                                 </p>
@@ -243,7 +243,6 @@
     </div>
 </div>
 <div class="about-what-we-do-sections">
-
     <div class="section2">
         <div class="content-section">
             <div class="container">
@@ -255,7 +254,8 @@
                         <h2>INVESTMENT <b><i>CAPABILITIES</i></b></h2>
                         <hr>
                         <p><b><i>Expertise across all asset classes and the globe.</i></b></p>
-                        <p>As global investment manager, we actively listen, anticipate, and develop strategies that respond to the needs of our clients. </p>
+                        <p>As global investment manager, we actively listen, anticipate, and develop strategies that respond to the needs of our clients. Clients rely on our active management approach, which we call strategic investing, and our broad range of equity, fixed income, and multi-asset investment capabilities. </p>
+
                     </div>
                     <div class="col-md-2"></div>
                     <div class="col-md-5">
@@ -265,7 +265,7 @@
                         <h2>INVESTMENT <b><i>APPROACH</i></b></h2>
                         <hr>
                         <p><b><i>Strategic investing means that we don’t stop at surface-level analysis.</i></b></p>
-                        <p>We believe in strategic investing. It has guided how we do business for more than 6 years, and it’s driven by independent thinking and rigorous research. So our clients can be confident that we’ll strive to select the right investments as we help them achieve their objectives.
+                        <p>We believe in strategic investing. It has guided how we do business for more than 10 years, and it’s driven by independent thinking and rigorous research. So our clients can be confident that we’ll strive to select the right investments as we help them achieve their objectives.
                         </p>
                     </div>
                 </div>
