@@ -6,9 +6,7 @@
         <div class="container">
             <div class="p-5">
                 <h4 class="text-white"><b><i>Our investment Capabilities</i></b> -</h4>
-                <h1 class="text-white text-capitalize">
-                    Investment Capabilities
-                </h1>
+               
                 <br>
                 <p class="text-white font-20 pr-5 text-wrap text-center">
                     As global investment manager, we actively listen, anticipate, <br> and develop strategies that
@@ -174,7 +172,7 @@
     <div class="section6">
         <div class="content-section">
             <div class="container">
-                <h3 class="fs-1 text-capitalize fw-bold text-center mb-4">More than Investing</h3>
+                <h3 class="fs-1 text-capitalize fw-bold text-right mb-4">More than Investing</h3>
                 <br>
                 <div class="row">
                     <div class="col-md-4 p-4">
@@ -203,6 +201,7 @@
                             </p>
                         </div>
                        </div>
+                    <br>
                        <div class="row">
                         <div class="col-md-6 ">
                             <h4 class="text-captalize fw-bold  ">A Dedicated Investment Counselor</h4>
@@ -217,6 +216,7 @@
                                 You pay us a fee based on your portfolio size.
                             </p>
                         </div>
+                         <br>
                         <div class="col-md-12">
                             <h4 class="text-captalize fw-bold ">Fair Fees that are Easy to understand</h4>
                             <p class="fs-5">
@@ -228,13 +228,9 @@
                             </p>
                         </div>
                        </div>
-
                    </div>
                 </div>
-
-
             </div>
-
         </div>
     </div>
 </div>

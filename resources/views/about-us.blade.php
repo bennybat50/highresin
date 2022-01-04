@@ -10,9 +10,7 @@
     <div class="welcome-sec text-center">
         <div class="container">
             <h4 class="text-white"><b><i>About HighResin</i></b> -</h4>
-            <h1 class="text-white">
-                About Us
-            </h1>
+            
             <br>
             <p class="text-white font-20 pr-5">We power success across the financial world for <br> individuals and institutions through unique insights, thinking and actions.
             </p>
