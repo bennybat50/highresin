@@ -101,12 +101,12 @@
     </div>
 </div>
 
-<div class="content_section">
+<div class="content_section py-5" style="background-color: #f2f2f2;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-4 mb-4 p-4">
-                <div class="c_card" style="background-color: #e24536;">
-                    <h3 class="fs-3 fw-bold fst-italic text-center light-border-bottom pb-3 mb-4">Putting Clients first
+                <div class="c_card">
+                    <h3 class="fs-3 text-white fw-bold fst-italic text-center light-border-bottom pb-3 mb-4">Putting Clients first
                     </h3>
 
                     <p class="fs-5">
@@ -123,7 +123,7 @@
             </div>
 
             <div class="col-md-4 mb-4 p-4">
-                <div class="c_card" style="background-color: #f58bc4;">
+                <div class="c_card">
                     <h3 class="fs-3 fw-bold fst-italic text-center light-border-bottom pb-3 mb-4">Diversity and
                         Inclusion</h3>
 
@@ -139,7 +139,7 @@
             </div>
 
             <div class="col-md-4 mb-4 p-4">
-                <div class="c_card" style="background-color: #1a7bb7;">
+                <div class="c_card">
                     <h3 class="fs-3 fw-bold fst-italic text-center light-border-bottom pb-3 mb-4">Opportunity</h3>
 
                     <p class="fs-5">
@@ -156,7 +156,7 @@
 
 
             <div class="col-md-4 mb-4 p-4">
-                <div class="c_card" style="background-color: #106884;">
+                <div class="c_card">
                     <h3 class="fs-3 fw-bold fst-italic text-center light-border-bottom pb-3 mb-4">Support</h3>
 
                     <p class="fs-5">
@@ -173,8 +173,8 @@
             </div>
 
             <div class="col-md-4 mb-4 p-4">
-                <div class="c_card" style="background-color: #8c041b;">
-                    <h3 class="fs-3 fw-bold fst-italic text-center light-border-bottom pb-3 mb-4">Recognition</h3>
+                <div class="c_card">
+                    <h3 class="fs-3 fw-bold fst-italic text-center light-border-bottom pb-3 mb-4"> Recognition</h3>
 
                     <p class="fs-5">
                         Hard work and dedication are recognized and rewarded at Highresin because our employees’
