@@ -109,7 +109,7 @@
         <div class="section-full">
             <div data-w-id="12718a2b-c43d-1ff3-8b7c-67e44d0da587" class="absolute culture-fix-bg2"></div>
             <div data-w-id="eaf38632-a1ae-f587-c079-0708a1353aa3" style="display:block" class="absolute-bg"></div>
-            <div class="flex-left">
+            <div class="flex-right">
                 <div class="text-container-4">
                     <div class="_76-percent-column">
                         <div class="left-padding">
