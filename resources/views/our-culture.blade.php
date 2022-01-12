@@ -6,10 +6,6 @@
         <div class="container">
             <div class="p-5">
                 <h4 class="text-white"><b><i>Our culture and values</i></b> -</h4>
-                <h1 class="text-white text-capitalize">
-                    Our Culture
-                </h1>
-                <br>
                 <p class="text-white font-20 pr-5">
                     The culture of Highresin is built and sustained by our values.
                     <br>
@@ -26,7 +22,7 @@
         <div class="content-section">
             <div class="container text-center">
                 <div class="p-3">
-                    <h2>At Wilshire, we never stop learning. <br> We continually expand our knowledge, improve our skills and stretch our capabilities to help each other grow and provide clients with the best of our collective expertise.
+                    <h2>At Highresin, we never stop learning. <br> We continually expand our knowledge, improve our skills and stretch our capabilities to help each other grow and provide clients with the best of our collective expertise.
                     </h2>
                     <p>Whether you join us as a graduate or a seasoned professional, you will be invited to take part in a number of development opportunities designed to help you reach the next stage of your career.
 
@@ -48,7 +44,7 @@
                             </h2>
                         </div>
                         <div class="top-margin _30-pixels">
-                            <p data-w-id="12718a2b-c43d-1ff3-8b7c-67e44d0da590" style="opacity:0">Expand your knowledge and skills throughout your career at Wilshire by experiencing different roles across our organization. With offices in the US, UK, Netherlands, China, France, Canada and Singapore, and business areas ranging from analytics to client solutions to risk management to technology, you will have multiple opportunities to broaden your skills and network.
+                            <p data-w-id="12718a2b-c43d-1ff3-8b7c-67e44d0da590" style="opacity:0">Expand your knowledge and skills throughout your career at Highresin by experiencing different roles across our organization. With offices in the US, UK, Netherlands, China, France, Canada and Singapore, and business areas ranging from analytics to client solutions to risk management to technology, you will have multiple opportunities to broaden your skills and network.
 
                             </p>
                         </div>
@@ -76,7 +72,7 @@
                             <img src="{{ asset('assets/images/culture/mentoring.jpg') }}" alt="">
                             <br>
                             <h2>Mentoring for women</h2>
-                            <p>By fostering a culture committed to gender diversity, our Gender Diversity Awareness Committee (GDAC) mentoring program helps women at Wilshire achieve career and personal growth goals by providing resources and opportunities to expand their network and knowledge.
+                            <p>By fostering a culture committed to gender diversity, our Gender Diversity Awareness Committee (GDAC) mentoring program helps women at Highresin achieve career and personal growth goals by providing resources and opportunities to expand their network and knowledge.
                             </p>
                         </div>
                     </div>
@@ -135,7 +131,7 @@
                     <div class="col-md-4">
                         <h3>Product and solutions training
                         </h3>
-                        <p>All employees receive in-house training on the full suite of Wilshire’s capabilities, solutions and products, as well as techniques to optimize sales and client value.
+                        <p>All employees receive in-house training on the full suite of Highresin’s capabilities, solutions and products, as well as techniques to optimize sales and client value.
                         </p>
                     </div>
                     <div class="col-md-4">
