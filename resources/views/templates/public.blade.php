@@ -72,9 +72,7 @@
                 </div>
                 <nav class="dropdown-list w-dropdown-list">
                   <a href="clients-programs" class="dropdown-link w-dropdown-link w--current">Clients Programs</a>
-                  <a href="benefits" class="dropdown-link w-dropdown-link w--current">Benefits</a>
                   <a href="how-we-are-different" class="dropdown-link w-dropdown-link w--current">How we are different</a>
-                  <a href="what-we-offer" class="dropdown-link w-dropdown-link w--current">What we offer</a>
                   <a href="research" class="dropdown-link w-dropdown-link w--current">Research & Analysis</a>
                 </nav>
               </div>

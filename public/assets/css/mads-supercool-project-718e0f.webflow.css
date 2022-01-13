@@ -6037,6 +6037,11 @@ figcaption {
 .client-program-welcome{
   background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/client-programs/bg.jpg');
 }
+.last-section img{height: 450px; object-fit: cover;}
+.we-provide-bg h1{color: white;}
+.we-provide-bg{background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/client-programs/bg.jpg'); background-size: cover; background-attachment: fixed;}
+.col-img{padding: 10px; border: 1px solid #eaeaea; height: 550px;}
+.col-img img{height: 200px; width: 100%; object-fit: cover; margin-bottom: 20px;}
 
 /* ============= Client Program CSS End ====================== */
 
