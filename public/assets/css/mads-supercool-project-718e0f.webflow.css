@@ -6004,7 +6004,7 @@ figcaption {
 .how_we_are_diff_welcome{
   background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/how_we_diff/1.jpg')
 }
-.diff_box{ border: 1.2px solid #1a7bb7;border-radius: 30px;}
+.diff_box{ border: 1.2px solid #1a7bb7;border-radius: 10px; height: 500px;}
 .b-bottom{ border-bottom: 1.2px solid #1a7bb7;}
 /* How we are different CSS End */
 .investment-approach-welcome{width: 100%; height: 750px; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/approach/welcome-bg.jpg");

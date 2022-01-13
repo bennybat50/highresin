@@ -159,7 +159,7 @@
                     <h6 class="fs-3 fs-bold mb-3"><i>ONGOING SUPPORT</i></h6>
 
                     <p class="fs-5">
-                        fter your portfolio is set up and you are fully on-boarded as a client, your Investment
+                        After your portfolio is set up and you are fully on-boarded as a client, your Investment
                         Counselor
                         will continually keep you up to date on your portfolio and Highresins’ views on the global stock
                         market. Your Investment Counselor is dedicated to providing you excellent service. He or she

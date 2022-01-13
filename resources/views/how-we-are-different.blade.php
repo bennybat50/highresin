@@ -6,15 +6,12 @@
         <div class="container">
             <div class="p-5">
                 <h4 class="text-white"><b><i>How we are different</i></b> -</h4>
-                <h1 class="text-white">
-                    How we are different
-                </h1>
                 <br>
                 <p class="text-white font-20 pr-5">
-                    For over 6 years, Highresin has worked in our clients’ best interests by thinking and acting
+                    For over 10 years, Highresin has worked in our clients’ best interests by thinking and acting
                     independently rather than following outdated industry practices. Our personalized approach, our
                     total commitment to serving our clients and our investing experience make us unique in our industry.
-                    That’s why Highresin currently manages $15 million for investors worldwide and helps over 9,000
+                    That’s why Highresin currently manages $15 billion for investors worldwide and helps over 10,000
                     clients meet their financial goals.
                 </p>
                 <br>
@@ -30,8 +27,7 @@
             <div class="col-lg-4">
                 <div class="diff_box">
                     <i class="fas fa-heartbeat fa-3x px-4 pt-4" style="color: #f5325c;"></i>
-                    <h4 class="b-bottom p-4">Advice that is always in your best interest</h4>
-
+                    <h3 class="b-bottom p-4">Advice that is always in <br> your best interest</h3>
                     <p class="p-4 fs-5">
                         As a fiduciary, we always put your interests first—and we’ve designed our entire business to
                         keep it
@@ -47,7 +43,7 @@
             <div class="col-lg-4">
                 <div class="diff_box">
                     <i class="fas fa-user-check fa-3x px-4 pt-4" style="color: #f5325c;"></i>
-                    <h4 class="b-bottom p-4">A portofolio tailored to your needs</h4>
+                    <h3 class="b-bottom p-4">A portofolio tailored <br> to your needs</h3>
 
                     <p class="p-4 fs-5">
                         We respect how hard you worked to build your nest egg, and before we recommend anything, we get
@@ -65,7 +61,7 @@
             <div class="col-lg-4">
                 <div class="diff_box">
                     <i class="fas fa-comments fa-3x px-4 pt-4" style="color: #f5325c;"></i>
-                    <h4 class="b-bottom p-4">Commuunication and Counsel to help you stay on track</h4>
+                    <h3 class="b-bottom p-4">Commuunication and Counsel to  help you stay on track</h3>
 
                     <p class="p-4 fs-5">
                         You will receive a personal point of contact with your Investment Counselor committed to

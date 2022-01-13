@@ -6,6 +6,7 @@
         <div class="container">
             <div class="p-5">
                 <h4 class="text-white"><b><i>Our culture and values</i></b> -</h4>
+                <br>
                 <p class="text-white font-20 pr-5">
                     The culture of Highresin is built and sustained by our values.
                     <br>
@@ -25,7 +26,6 @@
                     <h2>At Highresin, we never stop learning. <br> We continually expand our knowledge, improve our skills and stretch our capabilities to help each other grow and provide clients with the best of our collective expertise.
                     </h2>
                     <p>Whether you join us as a graduate or a seasoned professional, you will be invited to take part in a number of development opportunities designed to help you reach the next stage of your career.
-
                     </p>
                 </div>
             </div>
