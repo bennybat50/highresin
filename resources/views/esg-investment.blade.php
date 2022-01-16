@@ -124,7 +124,7 @@
     <div class="section6">
         <div class="container">
             <div class="row">
-                <div class="col-md-6"></div>
+
                 <div class="col-md-6">
                     <div class="bg-warning p-5">
                         <div class="row">
@@ -142,6 +142,7 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6"></div>
             </div>
         </div>
     </div>
