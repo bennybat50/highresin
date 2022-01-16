@@ -6135,3 +6135,31 @@ figcaption {
 }
 
 /* ===============------ Our Culture Capabilities CSS END ----========= */
+
+/* esg css start */
+.esg-welcome{width: 100%; height: 350px; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/esg/esg-hero.jpg");
+    background-position: center; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
+    .esg-welcome .welcome-sec h1{padding-top: 130px; font-size: 35px; }
+.esg-sections .section1 img{height: 600px;}
+.esg-sections .section2{background-color: #eaeaea;}
+.esg-sections .section4 .bg-success{background-color: rgba(10, 96, 16, 0.742) !important;}
+.esg-sections .section4 {background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/esg/esg-banner-1.jpg");
+    background-position: center; background-repeat: no-repeat; background-size: cover;}
+
+    .esg-sections .section6 .bg-warning{background-color: rgba(10, 96, 16, 0.742) !important;}
+.esg-sections .section6 {background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/esg/esg-banner-2.jpg");
+    background-position: bottom; background-repeat: no-repeat; background-size: cover;}
+
+    .esg-sections .section8 .bg-info{background-color: rgba(13, 121, 160, 0.742) !important;}
+    .esg-sections .section8 {background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/esg/esg-banner-3.jpg");
+        background-position: bottom; background-repeat: no-repeat; background-size: cover;}
+
+
+    .esg-sections .section10 .bg-success{background-color: rgba(20, 47, 121, 0.742) !important;}
+    .esg-sections .section10 {background-image: url("../images/esg/solar.png");
+        background-position: bottom; background-repeat: no-repeat; background-size: cover;}
+
+        .esg-sections .section13 .bg-success{background-color: rgba(20, 47, 121, 0.742) !important;}
+        .esg-sections .section13 {background-image: url("../images/esg/esg-banner-4.jpg");
+            background-position: bottom; background-repeat: no-repeat; background-size: contain;}
+/* esg css end */

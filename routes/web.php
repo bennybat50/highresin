@@ -84,20 +84,23 @@ Route::get('/investment-capabilities', function () {
 Route::get('/our-culture', function () {
     return view('our-culture');
 });
-Route::get('/our-history', function () {
-    return view('our-history');
+Route::get('/esg-investment', function () {
+    return view('esg-investment');
 });
+
+
+
 Route::get('/blog', function () {
     return view('blog');
 });
 Route::get('/about-us', function () {
     return view('about-us');
 });
-Route::get('/why-highresin', function () {
-    return view('why-highresin');
+Route::get('/diversity', function () {
+    return view('diversity');
 });
-Route::get('/choosing-highresin', function () {
-    return view('choosing-highresin');
+Route::get('/responsible', function () {
+    return view('responsible');
 });
 Route::get('/mission-and-values', function () {
     return view('mission-and-values');

@@ -6,5 +6,5 @@
 <br>
 <br>
 <br>
-<h1>Why Highresin page</h1>
+<h1>Diversity page</h1>
 @endsection

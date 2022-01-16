@@ -6,5 +6,5 @@
 <br>
 <br>
 <br>
-<h1>Our History page</h1>
+<h1>Responsible Investing page</h1>
 @endsection

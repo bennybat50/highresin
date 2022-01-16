@@ -58,10 +58,9 @@
                   <div>Resources</div>
                 </div>
                 <nav class="dropdown-list w-dropdown-list">
-                  <a href="our-history" class="dropdown-link w-dropdown-link w--current">Our History</a>
-                  <a href="why-highresin" class="dropdown-link w-dropdown-link w--current">Why HighResin</a>
-                  <a href="choosing-highresin" class="dropdown-link w-dropdown-link w--current">Choosing HighResin</a>
-                  <a href="mission-and-values" class="dropdown-link w-dropdown-link w--current">Mission & Values</a>
+                  <a href="esg-investment" class="dropdown-link w-dropdown-link w--current">ESG and Investment Stewardship </a>
+                  <a href="diversity" class="dropdown-link w-dropdown-link w--current">Diversity and Inclusion </a>
+                  <a href="responsible" class="dropdown-link w-dropdown-link w--current">Responsible Investing</a>
 
                 </nav>
               </div>
