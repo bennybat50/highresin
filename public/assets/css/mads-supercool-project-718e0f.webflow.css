@@ -6163,3 +6163,13 @@ figcaption {
         .esg-sections .section13 {background-image: url("../images/esg/esg-banner-4.jpg");
             background-position: bottom; background-repeat: no-repeat; background-size: contain;}
 /* esg css end */
+
+/* diversity start */
+.diversity-welcome{width: 100%; height: 450px; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/diversity/di-bannerjpg.jpg");
+    background-position: center; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
+    .diversity-welcome .welcome-sec h1{padding-top: 180px; font-size: 35px; }
+    .di-sections .section1 img{height: 600px;}
+    .di-sections .section2{background-color: #0C2F4B;}
+    .di-sections .section5 hr{height: 2px; background-color: #004078;}
+    .di-sections .section5 img{height: 600px; object-fit: cover;}
+    .di-sections .section6 img{height: 600px; object-fit: cover;}
