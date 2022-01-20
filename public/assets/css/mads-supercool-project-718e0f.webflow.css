@@ -6149,7 +6149,7 @@ figcaption {
     .esg-sections .section6 .bg-warning{background-color: rgba(10, 96, 16, 0.742) !important;}
 .esg-sections .section6 {background-image: url("../images/esg/esg-banner-2.jpg");
     background-position: bottom; background-repeat: no-repeat; background-size: cover;}
-
+    .esg-sections .section7 .col-md-4 img{height: 500px; object-fit: cover; width: 100%; margin-top: 100px;}
     .esg-sections .section8 .bg-info{background-color: rgba(13, 121, 160, 0.742) !important;}
     .esg-sections .section8 {background-image: url("../images/esg/esg-banner-3.jpg");
         background-position: bottom; background-repeat: no-repeat; background-size: cover;}

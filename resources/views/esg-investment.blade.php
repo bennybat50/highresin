@@ -85,7 +85,6 @@
                             </div>
                             <div class="col-md-9">
                                 <h2 class="text-white">“ESG investing and considerations are evolving quickly; so is our thinking. Our heritage and expertise allow us to partner with clients on this journey and contribute to a sustainable future for generations to come.”</h2>
-                                <p class="text-white"><b>Dick Weil, Chief Executive Officer</b></p>
                             </div>
                         </div>
                     </div>
@@ -102,7 +101,7 @@
                         <h1>Corporate ESG</h1>
                         <h3>We value and engage with our employees, communities and the wider world.</h3>
                         <br>
-                        <p>Both the ethical and practical values of ESG have always been at the heart of what Janus Henderson stands for. The biggest change we have seen, and welcome, is the increased appetite of clients, and the industry in general, to talk about ESG. The drive to assess more than just financial returns reflects a broad, cultural change within the industry, and perhaps a generational shift within society. We welcome this change and support the increased demand for corporate commitment to ESG standards.</p>
+                        <p>Both the ethical and practical values of ESG have always been at the heart of what HighResin stands for. The biggest change we have seen, and welcome, is the increased appetite of clients, and the industry in general, to talk about ESG. The drive to assess more than just financial returns reflects a broad, cultural change within the industry, and perhaps a generational shift within society. We welcome this change and support the increased demand for corporate commitment to ESG standards.</p>
                         <br>
                         <p>Our corporate commitment extends to our people, the environment, climate risk, the communities we are part of and our governance structure.</p>
 
@@ -135,9 +134,7 @@
                                 <h2 class="text-white">“As an active asset manager, it has always been our responsibility to identify and quantify risk. ESG factors play an important role in our decision making and influence positive change when engaging with companies.”
 
                                 </h2>
-                                <p class="text-white"><b>Paul LaCoursiere, Head of ESG Investments
 
-                                    </b></p>
                             </div>
                         </div>
                     </div>
@@ -149,17 +146,16 @@
     <div class="section7">
         <div class="content-section">
             <div class="container">
-                <div class="col-md-6">
-                    <img src="{{ asset('assets/images/esg/Disruption-icon.png') }}" alt="">
-                    <h1>Investment ESG</h1>
-                    <h3>Representing our clients, defending their interests and sharing our thinking.</h3>
-                    <p>As investment professionals, our first responsibility is, and always has been, to our clients' interests and goals – growing and smartly managing their capital and fulfilling our fiduciary responsibilities. In every market, client demand is also increasing for us to invest with processes that incorporate ESG and sustainability.</p>
 
-                </div>
                 <div class="row">
+
                     <p><b>Where ESG meets risk</b></p>
                     <br>
                     <div class="col-md-8">
+                        <img src="{{ asset('assets/images/esg/Disruption-icon.png') }}" alt="">
+                        <h1>Investment ESG</h1>
+                        <h3>Representing our clients, defending their interests and sharing our thinking.</h3>
+                        <p>As investment professionals, our first responsibility is, and always has been, to our clients' interests and goals – growing and smartly managing their capital and fulfilling our fiduciary responsibilities. In every market, client demand is also increasing for us to invest with processes that incorporate ESG and sustainability.</p>
 
                         <p>ESG factors are integral to how we think about risk. In the broadest sense, this ranges from an opening up of traditional governance issues, right through to the biggest existential questions. Among our clients, attitudes towards ESG and sustainability vary as much as risk profiles. We are respectful of this diversity of values and offer strategies and products accordingly.</p>
                         <br>
@@ -185,8 +181,7 @@
                             </div>
                             <div class="col-md-9">
                                 <h2 class="text-white">“As part of our Knowledge Shared approach, we are committed to sharing our insight and analysis on the ESG themes impacting our world and our clients' portfolios.” </h2>
-                                <p class="text-white"><b>Kelly Hagg, Global Head of Product Strategy and ESG for Distribution
-                                    </b></p>
+
                             </div>
                         </div>
                     </div>
@@ -198,19 +193,20 @@
     <div class="section9">
         <div class="container">
             <div class="row p-5">
-                <div class="col-md-6">
-                    <img src="{{ asset('assets/images/esg/esg-MagnifyingGlass.png') }}" alt="">
-                    <h1>Investment ESG</h1>
-                    <h3>Representing our clients, defending their interests <br> and sharing our thinking.</h3>
+                <div class="col-md-3">
+
                 </div>
                 <div class="col-md-6">
                     <img src="{{ asset('assets/images/esg/ESG_Letters_Transparent.png') }}" alt="">
                 </div>
+                <div class="col-md-3">
+
+                </div>
             </div>
             <div class="row">
-                <div class="col-md-10">
-                    <div class="bg-secondary p-2">
-                        <h3 class="text-white">ESG within our Investment Processes </h3>
+                <div class="col-md-12">
+                    <div class="bg-secondary p-5">
+                        <h1 class="text-white">ESG within our Investment Processes </h1>
                         <p class="text-white">ESG considerations are a key component of the active investment processes employed by our investment teams. These teams apply their differentiated perspectives, insight and experience to identify sustainable business practices that can generate long-term value for investors.</p>
                         <p class="text-white">Our ESG Investment Principles for long-term investment success:
                         </p>
@@ -226,6 +222,8 @@
 
             </div>
             <br>
+            <br>
+            <br>
             <div class="row">
                 <div class="col-md-6">
                     <h1>Climate Change </h1>
@@ -235,6 +233,8 @@
                     <img src="{{ asset('assets/images/esg/ClimateChange_GettyImages-1245079143_ProofPoint_600x220.jpg') }}" alt="">
                 </div>
             </div>
+            <br>
+            <br>
             <br>
             <div class="row">
                 <div class="col-md-2">
@@ -267,8 +267,7 @@
                             </div>
                             <div class="col-md-9">
                                 <h2 class="text-white">“We believe that a sustainable and responsible investment approach should not compromise the potential for long-term performance. When assessing opportunities we ask the question ‘Is the world a better place because of this company?” </h2>
-                                <p class="text-white"><b>Hamish Chamberlayne, CFA, Portfolio Manager, Global Sustainable Equities
-                                    </b></p>
+
                             </div>
                         </div>
                     </div>
@@ -347,15 +346,12 @@
                             </div>
                             <div class="col-md-9">
                                 <h2 class="text-white">“As part of our Knowledge Shared approach, we are committed to sharing our insight and analysis on the ESG themes impacting our world and our clients’ portfolios.”</h2>
-                                <p class="text-white"><b>Kelly Hagg, Global Head of Product Strategy and ESG for Distribution
-                                    </b></p>
+
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <br>
-                    <br>
                     <h1>Transparency of Thinking</h1>
                     <p>It is critical that our clients fully understand our approach and objectives. Sharing our investment thinking is an integral aspect of our commitment to maintaining an open dialogue with clients throughout the investment journey.</p>
                 </div>
