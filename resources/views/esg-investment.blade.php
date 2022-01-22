@@ -246,7 +246,7 @@
                 </div>
                 <div class="col-md-6">
                     <h1>Engagement</h1>
-                    <p>Our investment teams actively engage with the companies in which they invest. Our Governance and Responsible Investing (G&RI) Team, in existence since 2010, provides centralised support to investment teams on voting, company engagement and ESG research.</p>
+                    <p>Our investment teams actively engage with the companies in which they invest. Our Governance and Responsible Investing (G&RI) Team, in existence since 2015, provides centralised support to investment teams on voting, company engagement and ESG research.</p>
                 </div>
             </div>
         </div>
@@ -257,7 +257,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <h1>Investing with Impact</h1>
-                    <p>Our Global Sustainable Equities team marks its 30th anniversary in 2021, making it one of the pioneers of positive impact investing. Their approach focuses on companies that have a positive impact on the environment and society, employing a low-carbon approach. The team co-founded the Net Zero Carbon 10 initiative in 2020.</p>
+                    <p>Our Global Sustainable Equities team marks its 15th anniversary in 2021, making it one of the pioneers of positive impact investing. Their approach focuses on companies that have a positive impact on the environment and society, employing a low-carbon approach. The team co-founded the Net Zero Carbon 10 initiative in 2020.</p>
                 </div>
                 <div class="col-md-6">
                     <div class="bg-success p-5">
@@ -297,7 +297,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <h1>Expanding our Resources</h1>
-                       <p>Our current infrastructure includes an established base of ESG-focused experts. Under our Head of ESG Investments, Paul LaCoursiere, and a Global Head of Product Strategy & ESG within Distribution, Kelly Hagg, we are meaningfully strengthening the framework.</p>
+                       <p>Our current infrastructure includes an established base of ESG-focused experts. Under our Head of ESG Investments, Daniel Greg, and a Global Head of Product Strategy & ESG within Distribution, Phillips Winns, we are meaningfully strengthening the framework.</p>
                        <p><b>ESG client solutions:</b>building out a team within Distribution of seven ESG specialists, which includes a Director of Product Strategy & ESG, ESG Research Analyst, ESG Regulatory Specialist, and ESG Distribution Generalists.
                        </p>
                        <p><b>ESG investment support: </b>a specialist model is employed with skillsets grouped into the three pillars alongside:
