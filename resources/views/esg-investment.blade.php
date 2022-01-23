@@ -149,7 +149,6 @@
 
                 <div class="row">
 
-                    <p><b>Where ESG meets risk</b></p>
                     <br>
                     <div class="col-md-8">
                         <img src="{{ asset('assets/images/esg/Disruption-icon.png') }}" alt="">
@@ -267,12 +266,10 @@
                             </div>
                             <div class="col-md-9">
                                 <h2 class="text-white">“We believe that a sustainable and responsible investment approach should not compromise the potential for long-term performance. When assessing opportunities we ask the question ‘Is the world a better place because of this company?” </h2>
-
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
@@ -337,7 +334,6 @@
         <div class="content-section"></div>
         <div class="container">
             <div class="row">
-
                 <div class="col-md-6">
                     <div class="bg-success p-5">
                         <div class="row">
