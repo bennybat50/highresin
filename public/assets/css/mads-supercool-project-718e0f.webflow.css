@@ -6142,6 +6142,7 @@ figcaption {
     .esg-welcome .welcome-sec h1{padding-top: 130px; font-size: 35px; }
 .esg-sections .section1 img{height: 600px;}
 .esg-sections .section2{background-color: #eaeaea;}
+.esg-sections .section3 .image-left{height:400px; object-fit: cover; width: 100%;}
 .esg-sections .section4 .bg-success{background-color: rgba(10, 96, 16, 0.742) !important;}
 .esg-sections .section4 {background-image: url("../images/esg/esg-banner-1.jpg");
     background-position: center; background-repeat: no-repeat; background-size: cover;}
@@ -6165,7 +6166,7 @@ figcaption {
 /* esg css end */
 
 /* diversity start */
-.diversity-welcome{width: 100%; height: 450px; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/diversity/di-bannerjpg.jpg");
+.diversity-welcome{width: 100%; height: 350px; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/diversity/di-bannerjpg.jpg");
     background-position: center; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
     .diversity-welcome .welcome-sec h1{padding-top: 180px; font-size: 35px; }
     .di-sections .section1 img{height: 600px;}

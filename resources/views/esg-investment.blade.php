@@ -52,7 +52,7 @@
                 <div class="row">
                     <div class="col-md-8">
                         <h1>How we think about ESG</h1>
-                        <img src="{{ asset('assets/images/esg/think-banner.PNG') }}" alt="">
+                        <img src="{{ asset('assets/images/esg/think-banner.PNG') }}" class="image-left" alt="">
                         <br>
                         <br>
                         <p>Being a global asset management organisation comes with important responsibilities. As an active manager, this means that integrating Environmental, Social and Governance (ESG) factors into our investment decision-making and ownership practices is fundamental to delivering the results clients seek. An issue as pressing as ESG investing demands active and ongoing engagement and we are committed to maintaining a focus on long-term sustainability and returns. We also recognise that the ESG investment world is evolving and we seek to partner with clients and act as a guide on that journey.</p>
