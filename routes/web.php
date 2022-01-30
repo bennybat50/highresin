@@ -99,8 +99,8 @@ Route::get('/about-us', function () {
 Route::get('/diversity', function () {
     return view('diversity');
 });
-Route::get('/responsible', function () {
-    return view('responsible');
+Route::get('/sustainable', function () {
+    return view('sustainable');
 });
 Route::get('/mission-and-values', function () {
     return view('mission-and-values');

@@ -60,7 +60,7 @@
                 <nav class="dropdown-list w-dropdown-list">
                   <a href="esg-investment" class="dropdown-link w-dropdown-link w--current">ESG and Investment Stewardship </a>
                   <a href="diversity" class="dropdown-link w-dropdown-link w--current">Diversity and Inclusion </a>
-                  <a href="responsible" class="dropdown-link w-dropdown-link w--current">Responsible Investing</a>
+                  <a href="sustainable" class="dropdown-link w-dropdown-link w--current">Sustainable investing</a>
 
                 </nav>
               </div>
