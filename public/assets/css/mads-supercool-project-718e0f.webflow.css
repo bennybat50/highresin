@@ -6180,26 +6180,32 @@ figcaption {
 .sustain-welcome{width: 100%; height: 400px; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url("../images/sustainable/hero.jpg");
   background-position: center; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
   .sustain-welcome .welcome-sec h1{padding-top: 180px; font-size: 35px; }
-  .sustain-sections .section1 .sus-card{padding: 20px; border: 1px solid grey; height: 500px; background-color: rgb(253, 253, 253);}
+  .sustain-sections .section1 .sus-card{padding: 20px; border: 2px solid #f2f2f2; height: 500px; background-color: #FDFDFD;}
 
-  .sustain-sections .section2 .sus-card{padding: 20px; border: 1px solid grey; height: 150px; background-color: rgb(253, 253, 253);}
+  .sustain-sections .section2 .sus-card{padding: 20px; border: 2px solid #f2f2f2; height: 150px; background-color: #FDFDFD;}
 
-  .sustain-sections .section3 .sus-card .content{padding: 20px; border: 1px solid grey; height: 150px; background-color: rgb(253, 253, 253);}
+  .sustain-sections .section3 .sus-card .content{padding: 20px; border: 2px solid #f2f2f2; height: 150px; background-color: #FDFDFD;}
   .sustain-sections .section3-3 img{width: 80px;}
   .sustain-sections .section3-3{background-color: #F9F9FB; padding-bottom: 100px !important;}
-  .sustain-sections .section3-3 .sus-card {padding: 20px; border: 1px solid grey; height: 200px; background-color: rgb(253, 253, 253);}
-  .sustain-sections .section4 .sus-card {padding: 20px; border: 1px solid grey; height: 550px; background-color: rgb(253, 253, 253);}
+  .sustain-sections .section3-3 .sus-card {padding: 20px; border: 2px solid #f2f2f2; height: 200px; background-color: #FDFDFD;}
+  .sustain-sections .section4 .sus-card {padding: 20px; border: 2px solid #f2f2f2; height: 550px; background-color: #FDFDFD;}
   .sustain-sections .section4 .sus-card .content{padding: 10px; }
   .sustain-sections .section4 .sus-card .content h1{font-size: 30px; font-weight: 600;}
   .sustain-sections .section5 .content{padding: 30px;}
   .sustain-sections .section5 .row{margin-top: 50px !important; }
-  .sustain-sections .section6 .sus1-card{padding: 10px; border: 1px solid grey; height: 380px; background-color: rgb(253, 253, 253);}
+  .sustain-sections .section6 .sus1-card{padding: 10px; border: 2px solid #f2f2f2; height: 380px; background-color: #FDFDFD;}
   .sustain-sections .section6 .sus1-card .content{padding: 30px;}
-  .sustain-sections .section6 .sus-card{padding: 10px; border: 1px solid grey; height: 550px; background-color: rgb(253, 253, 253);}
-  .sustain-sections .section7 .sus-card{padding: 10px; border: 1px solid grey; height: 380px; background-color: rgb(253, 253, 253);}
+  .sustain-sections .section6 .sus-card{padding: 10px; border: 2px solid #f2f2f2; height: 550px; background-color: #FDFDFD;}
+  .sustain-sections .section7 .sus-card{padding: 10px; border: 2px solid #f2f2f2; height: 380px; background-color: #FDFDFD;}
   .sustain-sections .section7 img{width: 80px;}
   .sustain-sections .section7 ul{padding: 20px;}
   .sustain-sections .section8{background-color: #cde8ff; padding: 40px 40px 10px 40px ; }
   .sustain-sections .section8 img{width: 200px;}
   .sustain-sections .section8 .btn-reg{text-decoration: none; background-color: #D63D00; padding: 15px 20px 15px 20px; color: white; margin-top: 30px;}
+  .sustain-sections .section9 .sus-card{padding: 10px; border: 2px solid #f2f2f2; height: 320px; background-color: #FDFDFD; margin: 20px;}
+  .sustain-sections .section9 .sus-card h1{font-size: 30px; font-weight: 600; margin-top: 20px;}
+  .sustain-sections .section10{background-color: #F9F9FB; padding-bottom: 100px !important;}
+  .sustain-sections .section10 .content-1{padding: 60px 40px; }
+  .sustain-sections .section10 .sus-card{padding: 20px; border: 2px solid #f2f2f2; height: 320px; background-color: #FDFDFD; }
+  .sustain-sections .section10 .sus-card h2{font-size: 30px; font-weight: 600; margin-top: 20px !important; margin-bottom: 30px !important;}
 /* sustainablity End */

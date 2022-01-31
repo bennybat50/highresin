@@ -482,18 +482,26 @@
         <div class="content-section">
             <div class="container">
                 <h1 class="text-center">Sustainability Centre of Excellence</h1>
+                <br>
+                <br>
                 <div class="row">
                     <div class="col-md-6">
                         <img src="{{ asset('assets/images/sustainable/sri-card-1280x720_CentreOfExcellence.jpg') }}" alt="">
                     </div>
                     <div class="col-md-6">
+                      <div class="content-1">
                         <h1>Our sustainability team and principles</h1>
                         <p>Established in 2020 to develop sustainable investing products, ESG research and advocacy, and corporate stewardship.</p>
+                      </div>
                     </div>
                 </div>
                 <br>
-                <h1>Sustainable investing education</h1>
+                <div class="text-center">
+                    <h1>Sustainable investing education</h1>
                 <p>Why sustainable investing, why now: Insights and courses to make sustainable investing easier to understand </p>
+                </div>
+                <br>
+                <br>
                 <div class="row">
                     <div class="col-md-4">
                         <div class="sus-card">
