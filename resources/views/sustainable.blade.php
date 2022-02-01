@@ -112,34 +112,6 @@
             <p>It’s important to note that these investing styles are not necessarily mutually exclusive. Goals and methodologies can overlap. </p>
         </div>
     </div>
-    <br>
-    <br>
-    <div class="section3">
-        <div class="content-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="sus-card">
-                            <img src="{{ asset('assets/images/sustainable/greenchip.jpeg') }}" alt="">
-                            <div class="content">
-                                <h2>Explore Mackenzie Greenchip</h2>
-                                <p>Leading the charge in sustainable investing for almost 15 years. </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="sus-card">
-                            <img src="{{ asset('assets/images/sustainable/betterworld.jpeg') }}" alt="">
-                            <div class="content">
-                                <h2>New: Welcome to Betterworld </h2>
-                                <p>Introducing our new ESG-led core equity boutique. </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="section3-3">
         <div class="content-section">
             <div class="container">
@@ -276,7 +248,7 @@
                     <h1 class="text-center">Making sustainable investing a reality </h1>
                     <div class="p-5">
                         <p>The gap between the number of investors who hold sustainable investments and those who are interested in them is far too wide. That’s why we’re on a mission to make it easy for institutions, advisors and investors to integrate these solutions into their portfolios.</p>
-                        <p>We aspire to create a more invested world, sustainably. As a leading Canadian asset manager, we focus on protecting and creating value for our stakeholders – our clients, our employees, our shareholders, our communities and our planet by building sustainability into Mackenzie’s culture, corporate practices, and investment decisions we make.</p>
+                        <p>We aspire to create a more invested world, sustainably. As a leading Canadian asset manager, we focus on protecting and creating value for our stakeholders – our clients, our employees, our shareholders, our communities and our planet by building sustainability into Highresin’s culture, corporate practices, and investment decisions we make.</p>
                     </div>
                     <div class="row">
                         <div class="col-md-6">
@@ -319,42 +291,7 @@
             </div>
         </div>
     </div>
-    <div class="section6">
-        <div class="content-section">
-            <div class="container">
-                <h1 class="text-center">Sustainability policies and related disclosures </h1>
-                <br>
-                <br>
-                <div class="row sus1-card">
-                    <div class="col-md-6">
-                        <img src="{{ asset('assets/images/sustainable/1640146161310.jpg') }}" alt="">
-                    </div>
-                    <div class="col-md-6">
-                        <div class="content">
-                            <h1>Corporate Sustainability</h1>
-                        <p>Committed to inclusivity, diversity, climate change action, better corporate governance, charitable initiatives.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="sus-card">
-                            <img src="{{ asset('assets/images/sustainable/1640186183079.jpg') }}" alt="">
-                            <h1>Mackenzie’s Sustainable Investing policy</h1>
-                            <p>Read more to find out about the ESG factors that govern Mackenzie’s investment process.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="sus-card">
-                            <img src="{{ asset('assets/images/sustainable/1640212161750.jpg') }}" alt="">
-                            <h1>Principal Adverse Impacts (PAI)</h1>
-                            <p>Sustainability-related disclosures required under regulation (EU) 2019/2088</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
     <div class="section7">
         <div class="content-section">
             <div class="container">
@@ -371,11 +308,11 @@
                                 <h1>Sustainable Core</h1>
                             </div>
                             <ul>
-                                <li>Mackenzie Global Sustainable Balanced Fund</li>
-                                <li>Mackenzie Global Sustainable Bond Fund</li>
-                                <li>*NEW* Mackenzie Global Sustainable Bond ETF</li>
-                                <li>*NEW* Mackenzie Betterworld Canadian Equity Fund</li>
-                                <li>*NEW* Mackenzie Betterworld Global Equity Fund</li>
+                                <li>Highresin Sustainable Balanced Fund</li>
+                                <li>Highresin Sustainable Bond Fund</li>
+                                <li>*NEW* Highresin Sustainable Bond ETF</li>
+                                <li>*NEW* Highresin Betterworld Canadian Equity Fund</li>
+                                <li>*NEW* Highresin Betterworld Global Equity Fund</li>
                             </ul>
                         </div>
 
@@ -389,9 +326,9 @@
                                 <h1>Sustainable Thematic</h1>
                             </div>
                             <ul>
-                                <li>Mackenzie Greenchip Global Environmental All Cap Fund</li>
-                                <li>Mackenzie Greenchip Global Environmental Balanced Fund</li>
-                                <li>*NEW* Mackenzie Global Green Bond Fund</li>
+                                <li>Highresin Global Environmental All Cap Fund</li>
+                                <li>Highresin Global Environmental Balanced Fund</li>
+                                <li>*NEW* Highresin Green Bond Fund</li>
                             </ul>
                         </div>
 
@@ -405,8 +342,8 @@
                                 <h1>Sustainable Impact</h1>
                             </div>
                             <ul>
-                                <li>Mackenzie Global Women's Leadership Fund</li>
-                                <li>Mackenzie Global Women’s Leadership ETF</li>
+                                <li>Highresin Women's Leadership Fund</li>
+                                <li>Highresin Women’s Leadership ETF</li>
                             </ul>
                         </div>
 
@@ -433,51 +370,7 @@
             </div>
         </div>
     </div>
-    <div class="section9">
-        <div class="content-section">
-            <div class="container">
-                <h1 class="text-center">Our investment teams </h1>
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="sus-card">
-                            <img src="{{ asset('assets/images/sustainable/card-greenchip-john-greg.jpeg') }}" alt="">
-                            <h1>Mackenzie Greenchip
-                                Team</h1>
 
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="sus-card">
-                            <img src="{{ asset('assets/images/sustainable/income-team-.jpeg') }}" alt="">
-                            <h1>Mackenzie Fixed Income Team</h1>
-
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="sus-card">
-                            <img src="{{ asset('assets/images/sustainable/andrew-simpson.png') }}" alt="">
-                            <h1>Mackenzie Betterworld Team</h1>
-
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="sus-card">
-                            <img src="{{ asset('assets/images/sustainable/impax-logo-bgg.png') }}" alt="">
-                            <h1>Impax Asset Management LLC</h1>
-
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="sus-card">
-                            <img src="{{ asset('assets/images/sustainable/rockefellercapital-logo-bgg.png') }}" alt="">
-                            <h1>Rockefeller & Co.</h1>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="section10">
         <div class="content-section">
             <div class="container">
@@ -539,7 +432,7 @@
                     <div class="col-md-4">
                         <div class="sus-card">
                             <h2>Paving the way for the great energy transition</h2>
-                            <p>John Cook, portfolio manager of the Mackenzie Global Environmental Equity Fund, discusses how the pandemic has shaped the future of renewable energy.</p>
+                            <p>John Cook, portfolio manager of the Highresin Environmental Equity Fund, discusses how the pandemic has shaped the future of renewable energy.</p>
                         </div>
                     </div>
                 </div>
