@@ -109,7 +109,7 @@
                     </div>
                 </div>
             </div>
-            <p>It’s important to note that these investing styles are not necessarily mutually exclusive. Goals and methodologies can overlap. </p>
+            <p class="text-center">It’s important to note that these investing styles are not necessarily mutually exclusive. Goals and methodologies can overlap. </p>
         </div>
     </div>
     <div class="section3-3">
@@ -248,7 +248,7 @@
                     <h1 class="text-center">Making sustainable investing a reality </h1>
                     <div class="p-5">
                         <p>The gap between the number of investors who hold sustainable investments and those who are interested in them is far too wide. That’s why we’re on a mission to make it easy for institutions, advisors and investors to integrate these solutions into their portfolios.</p>
-                        <p>We aspire to create a more invested world, sustainably. As a leading Canadian asset manager, we focus on protecting and creating value for our stakeholders – our clients, our employees, our shareholders, our communities and our planet by building sustainability into Highresin’s culture, corporate practices, and investment decisions we make.</p>
+                        <p>We aspire to create a more invested world, sustainably. As a leading global asset manager, we focus on protecting and creating value for our stakeholders – our clients, our employees, our shareholders, our communities and our planet by building sustainability into Highresin’s culture, corporate practices, and investment decisions we make.</p>
                     </div>
                     <div class="row">
                         <div class="col-md-6">
@@ -266,7 +266,7 @@
                         <div class="col-md-6">
                             <div class="content">
                                 <h1>Real sustainable investing made simple</h1>
-                                <p>The growing number of sustainable investing products available to Canadians can be overwhelming. Our goals are to simplify sustainable investing and be transparent regarding the companies we invest in, while offering solutions that focus on a variety of causes and values that interest investors.</p>
+                                <p>The growing number of sustainable investing products available to Clients can be overwhelming. Our goals are to simplify sustainable investing and be transparent regarding the companies we invest in, while offering solutions that focus on a variety of causes and values that interest investors.</p>
 
                             </div>
                            </div>
@@ -388,54 +388,8 @@
                       </div>
                     </div>
                 </div>
-                <br>
-                <div class="text-center">
-                    <h1>Sustainable investing education</h1>
-                <p>Why sustainable investing, why now: Insights and courses to make sustainable investing easier to understand </p>
-                </div>
-                <br>
-                <br>
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="sus-card">
-                            <h2>Invest to Drive Change – Comprehensive Suite</h2>
-                            <p>An all-encompassing look at our suite of sustainable investing products, which are designed to bring about real change.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="sus-card">
-                            <h2>Sustainable Investing Explained</h2>
-                            <p>ESG breakdown and the history of sustainable investing.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="sus-card">
-                            <h2>Our principles and designing an ESG reflective product shelf</h2>
-                            <p>Fate Saghir, head of sustainable investing, discusses how to design a product shelf to incorporate ESG factors and why Europe is ahead of most of the world within this space..</p>
-                        </div>
-                    </div>
-                </div>
-                <br>
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="sus-card">
-                            <h2>Sustainable investing - fad or forever: Client infographic</h2>
-                            <p>Busting myths around sustainable investing.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="sus-card">
-                            <h2>CE accredited courses</h2>
-                            <p>You can learn more about sustainable investing by taking our CE accredited course.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="sus-card">
-                            <h2>Paving the way for the great energy transition</h2>
-                            <p>John Cook, portfolio manager of the Highresin Environmental Equity Fund, discusses how the pandemic has shaped the future of renewable energy.</p>
-                        </div>
-                    </div>
-                </div>
+
+
             </div>
         </div>
     </div>
