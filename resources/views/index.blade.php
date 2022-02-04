@@ -28,7 +28,7 @@
             </div>
             <div class="row">
                 <div class="col-md-4">
-                    <div class="border-column ">
+                    <div class="border-column  ">
                         <br>
                         <i class="bi bi-phone-vibrate-fill p-4"></i>
                         <h3 class="p-4">A Fiduciary For You</h3>
@@ -37,7 +37,6 @@
                         <div class="p-4">
                             <p>Not all advisers are equal. Learn about the strict legal standard we follow to keep clients’ interests first. <br><br>
                             </p>
-                            <a href="" class="site-btn-dark">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +50,6 @@
                         <div class="p-4">
                             <p>Our management team leads by example in putting clients first—in our portfolio management and client service.
                             </p>
-                            <a href="" class="site-btn-dark">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -63,7 +61,6 @@
                         <div class="vertical-line"></div>
                         <div class="p-4">
                             <p>Our culture supports our commitment to provide unparalleled service that puts clients’ interests first.</p>
-                            <a href="" class="site-btn-dark pl-4">Learn More</a>
                         </div>
 
                     </div>
@@ -90,7 +87,7 @@
                         <h4 class="text-white"> <i class="bi bi-emoji-laughing"></i> <i><b>Happy Clients</b></i> </h4>
                         <p class="text-white">We keep your portfolio on track as we help you manage your portfolio comfortably and confidently through tailored money management, industry-leading client service, illuminating insights, and a fee structure aligned with your goal.
                         </p>
-                        <a href="" class="site-btn-white">Learn More</a>
+                        <a href="/about-us" class="site-btn-white">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -230,12 +227,14 @@
       <div class="container">
           <div class="row">
               <div class="col-md-6">
-                  <br>
-                  <br>
-                  <div class="p-5">
+                  <div class="p-3">
                     <h1 >Help You Understand What Is <br> <b><i>Going On In Your Account</i></b> And Why.</h1>
                     <p>We regularly assess your account’s performance and explain to you what factors are at work.
                   </p>
+                  <br>
+                  <h1 >Quickly Handle Your <br>  <b><i>Day-to-Day Needs</i></b> . </h1>
+                    <p>We are here to help whenever you have questions or require financial service.
+                    </p>
                   </div>
               </div>
               <div class="col-md-6">
@@ -245,87 +244,7 @@
       </div>
     </div>
 </div>
-<br>
-<br>
-<br>
-<div class="home-section-6">
-    <div class="content-section">
-      <div class="container">
-          <div class="row">
-            <div class="col-md-6">
-                <img src="{{ asset('assets/images/home/day.jpg') }}" alt="" class="mb-5" style="height: 400px; width:100%; object-fit:cover;">
-            </div>
-              <div class="col-md-6">
-                  <br>
-                  <div class="p-5">
-                    <h1 class="text-white" >Quickly Handle Your <br>  <b><i>Day-to-Day Needs</i></b> . </h1>
-                    <p class="text-white">We are here to help whenever you have questions or require financial service.
-                    </p>
-                  </div>
-              </div>
 
-          </div>
-      </div>
-    </div>
-</div>
-<div class="home-section-1">
-    <div class="content-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="border-column ">
-                        <br>
-                        <i class="bi bi-person-workspace p-4"></i>
-                        <h3 class="p-4"><i><b>What we do</b></i></h3>
-                        <div class="vertical-line"></div>
-
-                        <div class="p-4">
-                            <p>We put our clients first -- getting to know them, so we can build strong and lasting partnership <br><br>
-                            </p>
-                            <br>
-                            <br>
-                            <br>
-
-                            <a href="" class="site-btn-dark">Learn More</a>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="border-column ">
-                        <br>
-                        <i class="bi bi-gift-fill p-4"></i>
-                        <h3 class="p-4"> <b><i>What we offer</i></b></h3>
-                        <div class="vertical-line"></div>
-
-                        <div class="p-4">
-                            <p>From wellness coverage to saving for retirement to tuition assistance, we have you covered.
-                            </p>
-                            <br>
-                            <br>
-                            <br>
-                            <br>
-                            <a href="" class="site-btn-dark">Learn More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="border-column ">
-                        <br>
-                        <i class="bi bi-bar-chart-steps p-4"></i>
-                        <h5 class="p-4"><b><i>How we are different</i></b></h5>
-                        <div class="vertical-line"></div>
-                        <div class="p-4">
-                            <p>For over 6 years, Highresin has worked in our clients’ best interests by thinking and acting independently rather than following outdated industry practices.</p>
-                            <a href="" class="site-btn-dark pl-4">Learn More</a>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 <script>
