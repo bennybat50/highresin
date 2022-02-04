@@ -11,11 +11,8 @@
   <link href="{{ asset('assets/css/normalize.css') }}" rel="stylesheet" type="text/css">
   <link href=" {{ asset('assets/css/webflow.css') }}" rel="stylesheet" type="text/css">
   <link href=" {{ asset('assets/css/mads-supercool-project-718e0f.webflow.css') }}" rel="stylesheet" type="text/css">
-  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <script type="text/javascript">WebFont.load({  google: {    families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic","Karla:regular,italic,700,700italic","Playfair Display:regular,500,600,700,800,900,italic,500italic,600italic,700italic,800italic,900italic"]  }});</script>
-  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
   <link href="images/logos/z-icon-o.png" rel="shortcut icon" type="image/x-icon">
   <link href="images/webclip.jpg" rel="apple-touch-icon">
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
@@ -243,9 +240,12 @@
       </div>
       <a href="#Top" data-w-id="721504d5-3017-a70d-1b78-49ff5a36f591" style="opacity:0;display:none" class="go-up-button w-inline-block"></a>
       {{-- <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> --}}
+      <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+      <script type="text/javascript">WebFont.load({  google: {    families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic","Karla:regular,italic,700,700italic","Playfair Display:regular,500,600,700,800,900,italic,500italic,600italic,700italic,800italic,900italic"]  }});</script>
+      <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+
       <script src="{{ asset('assets/js/jquery.min.js') }}" type="text/javascript"></script>
-      <script src="{{ asset('assets/js/bootstrap.min.js') }}" type="text/javascript"></script>
-    <script src="{{ asset('assets/js/webflow.js') }}" type="text/javascript"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>    <script src="{{ asset('assets/js/webflow.js') }}" type="text/javascript"></script>
     <script>
         // $("#started").on('click', function(){
         //     alert()
