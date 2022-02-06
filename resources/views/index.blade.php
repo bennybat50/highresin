@@ -98,6 +98,49 @@
     </div>
 </div>
 
+<div class="home-section-2-2">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="content">
+                <h1>Environmental, Social and Governance <b><i>(“ESG”)</i></b></h1>
+            <p>We believe that Environmental, Social and Governance (“ESG”) considerations directly and materially impact investment outcomes.</p>
+            <p>As long-term investors, we believe that a concerted and consistent focus on ESG throughout the investment lifecycle allows us to avoid undue risk and better identify valuable opportunities.</p>
+
+            </div>
+             </div>
+        <div class="col-md-6">
+            <img src="{{ asset('assets/images/esg/esg-img1.jpg') }}" alt="">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <img src="{{ asset('assets/images/diversity/di-img1.jpg') }}" alt="">
+        </div>
+        <div class="col-md-6">
+            <div class="content">
+                <h1>Diversity & Inclusion </h1>
+                <p>HighResin formalized what had been for many years an informal Diversity & Inclusion strategy.
+                </p>
+                <p>Intended to increase diversity and inclusion at the ﬁrm, focusing on female and underrepresented groups within our investment teams and officer-level positions, through enhanced and improved recruitment, talent development, education and awareness, we are employing a four-pillar strategy to achieve this goal</p>
+
+            </div>
+           </div>
+
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+           <div class="content">
+            <h1>Sustainable investing </h1>
+            <p>Sustainable investing refers to investment approaches that consider the risk and opportunity impacts of ESG (environmental, social, governance) factors on investment returns, or seek to bring about positive societal change through one or more ESG factors. While ESG factors are non-financial, they can have material short-or long-term financial impacts on a company’s performance. Below are some examples of ESG factors:
+            </p>
+           </div>
+        </div>
+        <div class="col-md-6">
+            <img src="{{ asset('assets/images/sustainable/sri-card-1280x720_CentreOfExcellence.jpg') }}" alt="">
+        </div>
+    </div>
+</div>
+
 
 <div class="home-section-3">
     <div class="content-section">
