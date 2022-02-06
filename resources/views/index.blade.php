@@ -76,7 +76,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <img src="{{ asset('assets/images/home/img1.jpg') }}" alt="">
+                    <video style="width: 100%; height:100%;" controls>
+                        <source src="{{ asset('assets/images/home/resin.mp4') }}" type="video/mp4">
+                        Your browser does not support the video tag.
+                      </video>
                 </div>
                 <div class="col-md-6">
                     <div class="p-5">
@@ -267,7 +270,7 @@
                     <div class="accordion-item">
                       <h2 class="accordion-header" id="headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            How do I know New York Life has my best interest in mind?
+                            How do I know Highresin has my best interest in mind?
                         </button>
                       </h2>
                       <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
