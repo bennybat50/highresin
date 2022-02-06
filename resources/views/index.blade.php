@@ -291,6 +291,29 @@
     </div>
 </div>
 
+<div class="blog-section">
+    <div class="content-section">
+        <div class="container">
+            <h1 class="text-center">Recent Financial News</h1>
+            <hr>
+            <div class="row">
+                @for ($i = 0; $i < 4; $i++)
+                <div class="col-md-3 cols">
+                    <a href="{{ $articles[$i]->url }}" target="blank">
+                     <img src="{{ $articles[$i]->urlToImage }}" alt="">
+                     <small><span><b>Author:</b></span>{{ $articles[$i]->author }}</small><br>
+                     <h4>{{ $articles[$i]->title }}</h4>
+                     <p class="descp">{{ $articles[$i]->description }}</p>
+                     <br>
+                     <a href="{{ $articles[$i]->url }}" target="blank" class="learn">Learn More  &#10132;</a>
+                    </a>
+                 </div>
+            @endfor
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="home-section6">
     <div class="content-section">
         <div class="container">

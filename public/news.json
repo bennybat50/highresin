@@ -1,266 +1,254 @@
 {
-"status": "ok",
-"totalResults": 70,
-"articles": [
-{
-"source": {
-"id": null,
-"name": "CNBC"
-},
-"author": "Sam Shead",
-"title": "Facebook should not have bowed to public outrage and shut down its facial recognition system, former world chess champion says - CNBC",
-"description": "Facebook is wrong to shut down facial recognition, according to Gary Kasparov, the former world chess champion and chairman of Human Rights Foundation.",
-"url": "https://www.cnbc.com/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
-"urlToImage": "https://image.cnbcfm.com/api/v1/image/105921427-1558274387737gettyimages-1058674250.jpg?v=1558274476",
-"publishedAt": "2021-11-04T09:02:18Z",
-"content": "LISBON, Portugal Facebook is wrong to shut down its facial recognition system, according to Gary Kasparov, the former world chess champion and chairman of the Human Rights Foundation.\r\nThe decision, … [+2410 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "BBC News"
-},
-"author": "https://www.facebook.com/bbcnews",
-"title": "Cupcakes recalled in US over metal fragment contamination fears - BBC News",
-"description": "People are being warned not to eat the chocolate cakes which may have fragments of mesh wire.",
-"url": "https://www.bbc.com/news/world-us-canada-59160644",
-"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B260/production/_121346654_68767374tastykakebuttercremeicedchocolatecupcakes1488980.jpg",
-"publishedAt": "2021-11-04T08:07:42Z",
-"content": "Image caption, The multi-pack cakes were on sale in eight US states.\r\nA range of chocolate cupcakes is being recalled in eight US states because they may contain tiny fragments of metal mesh wire.\r\nP… [+1036 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "CNBC"
-},
-"author": "Natasha Turak",
-"title": "OPEC+ members likely to hold firm on slow oil output, despite international pressure - CNBC",
-"description": "U.S. President Joe Biden has squarely blamed the reluctance of OPEC+ to pump more oil for the sharp rise in energy prices in the U.S. and around the world.",
-"url": "https://www.cnbc.com/2021/11/04/opec-members-likely-to-hold-firm-on-slow-oil-output-despite-international-pressure-.html",
-"urlToImage": "https://image.cnbcfm.com/api/v1/image/106468798-1585678776470gettyimages-1206554654.jpeg?v=1587001711",
-"publishedAt": "2021-11-04T07:24:54Z",
-"content": "Oil pumping jacks, also known as \"nodding donkeys,\" operate in an oilfield near Almetyevsk, Tatarstan, Russia, on Wednesday, March 11, 2020.\r\nOil prices have hit their highest levels since 2014, and … [+3304 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Benzinga"
-},
-"author": null,
-"title": "Why Is Shiba Inu Coin Price Crashing Today? - Benzinga - Benzinga",
-"description": "Shiba Inu (CRYPTO: SHIB) traded 15.1% lower over 24 hours at $0.00005...",
-"url": "https://www.benzinga.com/markets/cryptocurrency/21/11/23880624/why-is-shiba-inu-coin-price-crashing-today",
-"urlToImage": "https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/petr-magera-v1pzr380qbo-unsplash_4.jpg?width=720",
-"publishedAt": "2021-11-04T06:37:00Z",
-"content": "Shiba Inu (CRYPTO: SHIB) traded 15.1% lower over 24 hours at $0.00005675 early Thursday morning.\r\nWhat’s Moving? The meme cryptocurrency has fallen 14.66% over a seven-day trailing period.\r\nAgainst B… [+1879 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Variety"
-},
-"author": "Patrick Frater",
-"title": "Netflix Under Pressure in Korea as ‘Squid Game’ Success Stirs Lawmakers and Internet Firms - Variety",
-"description": "American streaming firm Netflix faced up to a multi-faceted wave of pressure in South Korea, a country where it has achieved market dominance and which is a vital production hub, this week. The global success of Korean-made Netflix original series “Squid Game…",
-"url": "https://variety.com/2021/biz/asia/netflix-under-pressure-in-korea-1235104596/",
-"urlToImage": "https://variety.com/wp-content/uploads/2021/11/squidgame-decor-lr.jpg?w=1000",
-"publishedAt": "2021-11-04T06:00:00Z",
-"content": "American streaming firm Netflix faced up to a multi-faceted wave of pressure in South Korea, a country where it has achieved market dominance and which is a vital production hub, this week.\r\nThe glob… [+5071 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Yahoo Entertainment"
-},
-"author": "Georgina Mckay",
-"title": "Cathie Wood's Ark Dumps 3.9 Million Zillow Shares - Yahoo Finance",
-"description": "(Bloomberg) -- Cathie Wood’s exchange-traded funds sold 3.9 million shares in Zillow Group Inc. on Wednesday as the stock’s rout deepened -- a day after...",
-"url": "https://finance.yahoo.com/news/cathie-wood-ark-dumps-3-031239383.html",
-"urlToImage": "https://s.yimg.com/uu/api/res/1.2/3ZerjMWRW.aVJwPfYwTdOg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/9b7d321214e8aecbf96b4ef304c0b10c",
-"publishedAt": "2021-11-04T04:49:47Z",
-"content": "(Bloomberg) -- Cathie Woods exchange-traded funds sold 3.9 million shares in Zillow Group Inc. on Wednesday as the stocks rout deepened -- a day after buying 288,813 of the securities.\r\nMost Read fro… [+1306 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "HuffPost"
-},
-"author": "Nick Visser",
-"title": "New York City Cabbies Rescued From Debt Crisis In ‘New Dawn’ For Iconic Taxis - HuffPost",
-"description": "\"Drivers will no longer be at risk of losing their homes, and no longer be held captive to a debt beyond their lifetime.”",
-"url": "https://www.huffpost.com/entry/new-york-city-cab-medallion-bailout_n_61833a00e4b0c8666bd7a509",
-"urlToImage": "https://img.huffingtonpost.com/asset/618354242400007a70508f4e.jpeg?cache=YVNhpHJYmC&ops=1778_1000",
-"publishedAt": "2021-11-04T04:11:16Z",
-"content": "New York City taxi drivers, crushed by debt after years of exploitative loan practices, will be rescued under a new deal announced by state officials on Wednesday, a major win for drivers amid a days… [+2975 chars]"
-},
-{
-"source": {
-"id": "fox-news",
-"name": "Fox News"
-},
-"author": "Edmund DeMarche",
-"title": "Tom Hanks says he turned down offer from Jeff Bezos to go to space - Fox News",
-"description": "Tom Hanks, them Hollywood legend best known for films like “Sleepless in Seattle” and “Apollo 13,” said in an interview Wednesday that Jeff Bezos, the billionaire founder of Amazon offered to fly him to space before William Shatner but…but for a steep price.",
-"url": "https://www.foxnews.com/entertainment/tom-hanks-says-he-turned-down-offer-from-jeff-bezos-to-go-to-space",
-"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/GettyImages-1350964627.jpg",
-"publishedAt": "2021-11-04T03:58:37Z",
-"content": "Maybe he's not a Prime member?\r\nTom Hanks, them Hollywood legend best known for films like \"Sleepless in Seattle\" and \"Apollo 13,\" said in an interview Wednesday that Jeff Bezos, the billionaire foun… [+2072 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Benzinga"
-},
-"author": null,
-"title": "'Squid Game' Crypto Price Shoots Up 1000% Even As Binance Investigates Rug Pull - Benzinga - Benzinga",
-"description": "Cryptocurrency exchange Binance is reportedly investigating the Squid Game (CRYPTO: SQUID) token in order to pursue the matter wit...",
-"url": "https://www.benzinga.com/markets/cryptocurrency/21/11/23879776/squid-game-crypto-price-shoots-up-1000-even-as-binance-investigates-rug-pull",
-"urlToImage": "https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/screen_shot_2021-10-22_at_1.21.36_pm_1.png?width=720",
-"publishedAt": "2021-11-04T03:43:00Z",
-"content": "Cryptocurrency exchange Binance is reportedly investigating the Squid Game (CRYPTO: SQUID) token in order to pursue the matter with law enforcement.\r\nWhat Happened: The largest cryptocurrency exchang… [+2379 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Barron's"
-},
-"author": "Eric J. Savitz",
-"title": "Qualcomm Stock Rises on Strong Earnings - Barron's",
-"description": "The provider of mobile phone chips said revenue was up 43% from a year ago, easily beating Wall Street estimates.",
-"url": "https://www.barrons.com/articles/qualcomm-stock-price-earnings-51635973720",
-"urlToImage": "https://images.barrons.com/im-428307/social",
-"publishedAt": "2021-11-04T03:27:00Z",
-"content": "Qualcomm shares were rising after the provider of mobile phone chips posted better-than-expected quarterly results and offered strong guidance for its current quarter, driven by strong smartphone dem… [+275 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Fox Business"
-},
-"author": "Reuters",
-"title": "Kellogg's US cereal plant workers reject revised offer - Fox Business",
-"description": "",
-"url": "https://www.foxbusiness.com/markets/kelloggs-us-cereal-plant-workers-reject-revised-offer",
-"urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/10/0/0/kelloggs-labor-strike.jpg?ve=1&tl=1",
-"publishedAt": "2021-11-04T03:07:48Z",
-"content": "Kellogg Co said late Wednesday its cereal plant workers had rejected a revised offer by the U.S. packaged foods maker, prolonging the months-long negotiations over a new contract.\r\nGET FOX BUSINESS O… [+2668 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "CNET"
-},
-"author": "Laura Hautala",
-"title": "PayPal, Venmo and CashApp simplify cryptocurrency for beginners - CNET",
-"description": "Some of the apps are limited to buying and selling and don't let you move cryptocurrency to a wallet. But they might entice beginners to try crypto.",
-"url": "https://www.cnet.com/personal-finance/crypto/paypal-venmo-and-cashapp-simplify-cryptocurrency-for-beginners/",
-"urlToImage": "https://www.cnet.com/a/img/dJaUcyA062XD2kBjhrEsqzW_Jsc=/1200x630/2021/10/25/dbc15839-a152-428b-814e-819a7da07b1e/gettyimages-1332976426.jpg",
-"publishedAt": "2021-11-04T02:59:46Z",
-"content": "Simple crypto-buying features on familiar payment apps could attract more people to the world of cryptocurrency, analysts say.\r\nGetty Images\r\nIf you find cryptocurrency intimidating, payment apps wan… [+6882 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "YouTube"
-},
-"author": null,
-"title": "China's Market Is Opening Up Rapidly, Credit Suisse Says - Bloomberg Markets and Finance",
-"description": "Neil Hosie, head of APAC and EMEA equities at Credit Suisse, discusses the outlook for the markets and the opportunities he sees. He speaks on the sidelines ...",
-"url": "https://www.youtube.com/watch?v=FBLL1Sb79VU",
-"urlToImage": "https://i.ytimg.com/vi/FBLL1Sb79VU/maxresdefault.jpg",
-"publishedAt": "2021-11-04T02:56:34Z",
-"content": null
-},
-{
-"source": {
-"id": "cnn",
-"name": "CNN"
-},
-"author": "Maggie Fox, CNN",
-"title": "CDC updates health warning for aromatherapy spray - CNN",
-"description": "Federal agencies widened recalls and warnings to doctors Wednesday about aromatherapy sprays that have been linked to fatal cases of a rare tropical disease.",
-"url": "https://www.cnn.com/2021/11/03/health/aromatherapy-spray-health-warning/index.html",
-"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211103164541-aromatherapy-spray-health-warning-super-tease.jpg",
-"publishedAt": "2021-11-04T02:53:00Z",
-"content": null
-},
-{
-"source": {
-"id": "fox-news",
-"name": "Fox News"
-},
-"author": "Paul Best",
-"title": "Trump surgeon general speaks out on vaccinating kids - Fox News",
-"description": "Dr. Jerome Adams, who served as U.S. surgeon general under former President Trump, said Wednesday that he will definitely be getting his 11-year-old daughter vaccinated against COVID-19 as the benefits clearly outweigh the risks.",
-"url": "https://www.foxnews.com/us/former-trump-surgeon-general-on-vaccinating-his-kid-we-have-to-do-everything-we-can-to-protect-our-children",
-"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Jerome-Adams.jpg",
-"publishedAt": "2021-11-04T02:51:37Z",
-"content": "Dr. Jerome Adams, who served as U.S. surgeon general under former President Trump, said Wednesday that he will be getting his 11-year-old daughter vaccinated against COVID-19 as the benefits clearly … [+2825 chars]"
-},
-{
-"source": {
-"id": "cnn",
-"name": "CNN"
-},
-"author": null,
-"title": "Watch: 'The Masked Singer' reveals who's behind The Beach Ball - CNN",
-"description": "\"The Masked Singer\" pulled the cover off of the celebrity who's been inside a beach ball costume this season.",
-"url": "https://www.cnn.com/videos/media/2021/11/04/masked-singer-beach-ball-reveal-mh-orig.cnn",
-"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211104023256-masked-singer-beach-ball-super-tease.jpg",
-"publishedAt": "2021-11-04T02:40:40Z",
-"content": null
-},
-{
-"source": {
-"id": null,
-"name": "Gizmodo.com"
-},
-"author": "Florence Ion",
-"title": "Boeing Wins FCC Approval for Satellite Internet Despite SpaceX's Best Attempts - Gizmodo",
-"description": "SpaceX, which owns Starlink, claimed Boeing's satellites would cause interference, but that argument didn't fly.",
-"url": "https://gizmodo.com/boeing-wins-fcc-approval-for-satellite-internet-despite-1847993439",
-"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7246f4a21bea2794d6b92d1735e59472.jpg",
-"publishedAt": "2021-11-04T02:00:00Z",
-"content": "SpaceXs Starlink will eventually have more competition in the satellite broadband businessand rural Americans will have more providers to choose from. The FCC on Wednesday gave Boeing the go-ahead to… [+2235 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Fox Business"
-},
-"author": "The Wall Street Journal",
-"title": "MGM plans to sell Mirage operations in Las Vegas - Fox Business",
-"description": "MGM Resorts International said it would sell its operations of The Mirage to another operator, part of a rash of deals that are changing the hands of ownership on the Las Vegas Strip.",
-"url": "https://www.foxbusiness.com/markets/mgm-plans-to-sell-mirage-operations-in-las-vegas",
-"urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/0/0/Mirage-CasinoA.jpg?ve=1&tl=1",
-"publishedAt": "2021-11-04T01:44:06Z",
-"content": "MGM Resorts International said it would sell its operations of The Mirage to another operator, part of a rash of deals that are changing the hands of ownership on the Las Vegas Strip.\r\nMGM Resorts, l… [+3636 chars]"
-},
-{
-"source": {
-"id": "abc-news",
-"name": "ABC News"
-},
-"author": "Quinn Owen, Luke Barr",
-"title": "CISA issues sweeping federal directive for government cybersecurity - ABC News",
-"description": "",
-"url": "https://abcnews.go.com/Politics/cisa-issues-sweeping-federal-directive-government-cybersecurity/story?id=80949645",
-"urlToImage": "https://s.abcnews.com/images/US/solarwinds-rt-jt-211025_1635179105542_hpMain_16x9_992.jpg",
-"publishedAt": "2021-11-04T01:41:12Z",
-"content": "The Biden administration is ordering federal agencies to fix hundreds of vulnerabilities in software and hardware that hackers have been known to exploit, according to a new government directive rele… [+2942 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "CNBC"
-},
-"author": "Eustance Huang",
-"title": "Asia-Pacific stocks rise after Fed announces plans to start tapering bond purchases; oil falls 1% - CNBC",
-"description": "The U.S. Federal Reserve announced Wednesday it will begin tapering the pace of asset purchases later in November.",
-"url": "https://www.cnbc.com/2021/11/04/asia-markets-us-federal-reserve-currencies-oil.html",
-"urlToImage": "https://image.cnbcfm.com/api/v1/image/106868547-1618443427035-gettyimages-1230415697-JAPAN_STOCK.jpeg?v=1635982105",
-"publishedAt": "2021-11-03T23:43:42Z",
-"content": "Fed announces tapering plans\r\nThe Fed announced Wednesday it will begin reducing the pace of monthly bond purchases later this month. The move was in line with market expectations following a series … [+1070 chars]"
-}
-]
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Hodl"
+            },
+            "author": "Daily Hodl Staff",
+            "title": "One Ethereum Rival Gearing Up for New All-Time Highs As Bitcoin (BTC) Flashes Trend Reversal: Crypto Analyst - The Daily Hodl",
+            "description": "A closely followed crypto analyst says he's bullish on one Ethereum (ETH) competitor while predicting a potential bullish reversal for Bitcoin (BTC).",
+            "url": "https://dailyhodl.com/2022/02/06/one-ethereum-rival-gearing-up-for-new-all-time-highs-as-bitcoin-btc-flashes-trend-reversal-crypto-analyst/",
+            "urlToImage": "https://i0.wp.com/dailyhodl.com/wp-content/uploads/2021/12/investment-fund-skeptic.jpg?fit=1365%2C800&ssl=1",
+            "publishedAt": "2022-02-06T08:05:18Z",
+            "content": "A closely followed crypto analyst says he’s bullish on one Ethereum (ETH) competitor and predicts a potential trend reversal for Bitcoin (BTC).\r\nPseudonymous analyst Smart Contracter tells his 204,50… [+1610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Kerry J. Byrne",
+            "title": "‘Disgraceful end’: Luxury cruise ships seized by Feds in Bahamas - New York Post ",
+            "description": "US Marshals seized a pair of popular cruise ships in the Bahamas Friday upon allegations that their Miami-based owner, Crystal Cruises, has failed to pay $4.6 million in fuel bills.",
+            "url": "https://nypost.com/2022/02/06/crystal-serenity-crystal-symphony-cruise-ships-seized-by-us-marshals-in-bahamas/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/02/newspress-collage-21107450-1644124305678.png?w=1024",
+            "publishedAt": "2022-02-06T06:23:00Z",
+            "content": "A luxury cruise ship operator is underwater — and left passengers high and dry.\r\nUS Marshals seized a pair of popular cruise ships in the Bahamas Friday upon allegations that their Miami-based owner,… [+2980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WOLF STREET"
+            },
+            "author": null,
+            "title": "Rough Day in the Bond Market: Treasury Yields Spike, 30-Year Fixed Mortgage Rate Nears 4%. Where's the Magic Number? - WOLF STREET",
+            "description": "Fed’s coming tightening cycle sinks in, amid still brutally negative “real” yields, as bonds’ purchasing power gets eaten up by inflation.",
+            "url": "https://wolfstreet.com/2022/02/05/rough-day-in-the-bond-market-treasury-yields-spike-30-year-fixed-mortgage-rate-nears-4-wheres-the-magic-number/",
+            "urlToImage": "https://wolfstreet.com/wp-content/uploads/2022/02/US-mortgage-rate-2022-02-05-fixed-30-yr-daily.png",
+            "publishedAt": "2022-02-06T06:11:15Z",
+            "content": "Feds coming tightening cycle sinks in, amid still brutally negative real yields, as bonds purchasing power gets eaten up by inflation.\r\nBond fireworks lit up the sky on Friday, following the release … [+4405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin.com"
+            },
+            "author": null,
+            "title": "Billionaire Ray Dalio Discusses Future of Money, Insists Some Governments Will Ban Crypto – Featured Bitcoin News - Bitcoin News",
+            "description": "Billionaire Ray Dalio, the founder of the world's largest hedge fund, Bridgewater Associates, has shared his view on cryptocurrency investing and the future of money. He believes that crypto will be banned by different governments.",
+            "url": "https://news.bitcoin.com/billionaire-ray-dalio-future-of-money-insists-some-governments-will-ban-crypto/",
+            "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/ray-dalio.jpg",
+            "publishedAt": "2022-02-06T03:01:44Z",
+            "content": "Billionaire Ray Dalio, the founder of the world’s largest hedge fund, Bridgewater Associates, has shared his view on cryptocurrency investing and the future of money. He believes that crypto will be … [+2662 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Alyse Stanley",
+            "title": "Amazon, Nike, and Other Bidders Are Reportedly Circling Peloton - Gizmodo",
+            "description": "Several corporations seem eager to scoop up the beleaguered exercise equipment manufacturer.",
+            "url": "https://gizmodo.com/amazon-nike-and-other-bidders-are-reportedly-circling-1848487758",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/24db19759ad577127eb40a70542b8f12.jpg",
+            "publishedAt": "2022-02-05T22:35:00Z",
+            "content": "After enjoying a lockdown-fueled peak during the pandemic, Peloton is now spinning out of control. Product recalls, plummeting stock prices, a major decline in demand and its bikes dangerous cameos i… [+2338 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WTAE Pittsburgh"
+            },
+            "author": null,
+            "title": "Port Authority closes bridge that carries South Busway after portion of bridge shifts - WTAE Pittsburgh",
+            "description": "Officials said engineers on Friday discovered that a portion of the bridge had shifted.",
+            "url": "https://www.wtae.com/article/port-authority-closes-bridge-that-carries-south-busway-in-mt-washington-after-portion-of-bridge-shifts/38987895",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/bridge-closed-1644022070.jpg?crop=1.00xw:0.869xh;0,0.0783xh&resize=1200:*",
+            "publishedAt": "2022-02-05T22:16:00Z",
+            "content": "PITTSBURGH —A Port Authority bridge that carries the South Busway over Saw Mill Run Boulevard in Pittsburgh's Mt. Washington neighborhood will remain closed indefinitely, the Port Authority announced… [+2664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Chris Ciaccia",
+            "title": "Meta Platforms spent $20B during the quarter on buybacks - for nothing - Seeking Alpha",
+            "description": "In the metaverse, no one can hear you scream.That shriek shareholders heard was not only caused by the deep dive in Meta Platforms' market cap after it reported weak earnings",
+            "url": "https://seekingalpha.com/news/3795700-meta-platforms-spent-20b-during-the-quarter-on-buybacks-for-nothing",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1349800127/image_1349800127.jpg?io=getty-c-w750",
+            "publishedAt": "2022-02-05T21:20:00Z",
+            "content": "Justin Sullivan/Getty Images News\r\nIn the metaverse, no one can hear you scream.\r\nThat shriek shareholders heard this past week was not only caused by the deep dive in Meta Platforms' (NASDAQ:FB) mar… [+4111 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+            "title": "Ford limits production at North American plants due to chip shortages - Engadget",
+            "description": "Stop us if you’ve heard this one before..",
+            "url": "https://www.engadget.com/ford-suspends-production-at-eight-factories-211903830.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-images/2019-06/7e4d5d90-98db-11e9-b7fb-0c98caf21b14",
+            "publishedAt": "2022-02-05T21:19:33Z",
+            "content": "Stop us if youve heard this one before, but a North American automaker is about to temporarily reduce its manufacturing output due to the ongoing global chip shortage\r\n. A Ford spokesperson told Reut… [+1210 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Goodbye Easy Money as Hawkish Central Banks Speed Up Rate Hikes - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2c76e175-874c-11ec-8d9b-736871664776&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMi0wNS9nb29kYnllLWVhc3ktbW9uZXktYXMtaGF3a2lzaC1jZW50cmFsLWJhbmtzLXNwZWVkLXVwLXJhdGUtaGlrZXM=",
+            "urlToImage": null,
+            "publishedAt": "2022-02-05T21:00:01Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Karen Langley, Joe Wallace",
+            "title": "Amazon Breaks Record for One-Day Gain in Market Cap - The Wall Street Journal",
+            "description": "Tech stocks have diverged this earnings season as investors subject results to greater scrutiny",
+            "url": "https://www.wsj.com/articles/amazon-share-price-surges-premarket-following-bumper-earnings-11643975567",
+            "urlToImage": "https://images.wsj.net/im-480081/social",
+            "publishedAt": "2022-02-05T20:44:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "Delta asks the Justice Department to put unruly travelers on a 'no-fly' list - CNBC",
+            "description": "Delta said it has barred 1,900 passengers from flying on the carrier for failing to follow mask requirements.",
+            "url": "https://www.cnbc.com/2022/02/05/delta-asks-the-justice-department-to-put-unruly-travelers-on-a-no-fly-list.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106932687-1629840090441-attend.jpg?v=1644094187",
+            "publishedAt": "2022-02-05T20:34:48Z",
+            "content": "Delta Air Lines' CEO Ed Bastian asked the U.S. Department of Justice to put convicted unruly travelers on a national \"no-fly\" list, the airline's latest effort to deter aggressive behavior on flights… [+1317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Alyse Stanley",
+            "title": "Meta Brings 'Personal Boundary' to Horizon Worlds and Venues to Keep Creeps at Arm's Length - Gizmodo",
+            "description": "Users now have an invisible personal bubble around their avatar enabled by default.",
+            "url": "https://gizmodo.com/metas-brings-personal-boundary-to-horizon-worlds-and-ve-1848487482",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/178c4a43189ee49a339dc863fab64aca.jpg",
+            "publishedAt": "2022-02-05T20:10:00Z",
+            "content": "Because theres no escaping creeps on the Internet, Meta (formerly known as Facebook) has launched a new Personal Boundary feature for its virtual reality platforms to combat harassment. \r\nThis Person… [+2488 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nathaniel Meyersohn, CNN Business",
+            "title": "Why every Costco product is called 'Kirkland Signature' - CNN",
+            "description": "Costco's Kirkland Signature brand is perhaps America's weirdest private label. You can put Kirkland Signature AA batteries alongside Kirkland Signature cashews in your shopping cart.",
+            "url": "https://www.cnn.com/2022/02/05/business/costco-kirkland-signature/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220204083558-01-costco-kirkland-brand-file-restricted-super-tease.jpg",
+            "publishedAt": "2022-02-05T19:59:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Honolulu Star-Advertiser"
+            },
+            "author": "Star-Advertiser staff",
+            "title": "Hawaii records 18 new coronavirus-related deaths, 1,278 additional infections - Honolulu Star-Advertiser",
+            "description": "Hawaii Department of Health officials today reported 18 new coronavirus-related deaths and 1,278 new confirmed and probable infections statewide, bringing the state’s totals since the start of the pandemic to 1,222 fatalities and 225,535 cases.",
+            "url": "https://www.staradvertiser.com/2022/02/05/breaking-news/hawaii-records-18-new-coronavirus-related-deaths-1278-additional-infections/",
+            "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2022/02/web1_20220205-web-covid-testing.jpg",
+            "publishedAt": "2022-02-05T19:18:45Z",
+            "content": "Hawaii Department of Health officials today reported 18 new coronavirus-related deaths and 1,278 new confirmed and probable infections statewide, bringing the state’s totals since the start of the pa… [+3922 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Alyssa Exposito",
+            "title": "The Metaverse calls: NFTs construct virtual economies to stay relevant in 2022 - Cointelegraph",
+            "description": "“Utility” is the 2022 NFT buzzword and a few forward-looking projects are venturing into the Metaverse by integrating gamification and token emission strategies to their roadmap.",
+            "url": "https://cointelegraph.com/news/the-metaverse-calls-nfts-construct-virtual-economies-to-stay-relevant-in-2022",
+            "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNjk3OGEzZWQtOGI4MC00MDU4LTkwYzMtNjYzNDBjMGY2YTYyLmpwZw==.jpg",
+            "publishedAt": "2022-02-05T19:03:09Z",
+            "content": "As NFT projects prepare to embark into the Metaverse, it seems they are pivoting from their static imagery to integrating mechanics that provide utility.\r\nNotably, Bored Ape Yacht Club has amassed ov… [+5456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Drive"
+            },
+            "author": "Kristin V. Shaw",
+            "title": "Ford CEO Jim Farley Fights 'Unreasonable' Dealer Markups - The Drive",
+            "description": "Jim Farley has his eyes on the brand's dealerships, and he's not afraid to pull vehicle allocations for those who step out of line.",
+            "url": "https://www.thedrive.com/news/44172/ford-boss-puts-the-kibosh-on-unreasonable-dealer-markups",
+            "urlToImage": "https://www.thedrive.com/content/2022/02/Ford-Jim-Farley-HERO.jpg?quality=85",
+            "publishedAt": "2022-02-05T18:44:21Z",
+            "content": "Weve all seen it happening, especially in the last two years. Dealerships are cashing in on popular vehicles and maximizing the supply and demand cycle with big markups. At Ford, CEO Jim Farley has m… [+2904 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Avon, CT Patch"
+            },
+            "author": "Deb Belt",
+            "title": "MD Salad Recall Over Listeria Concerns: CDC Offers Update - Patch.com",
+            "description": "More people were likely infected by listeria linked to prepackaged salads than were reported, CDC officials said. One MD case was reported.",
+            "url": "https://patch.com/maryland/columbia/md-salad-recall-over-listeria-concerns-cdc-offers-update",
+            "urlToImage": "https://patch.com/img/cdn20/shutterstock/714975/20220203/093918/styles/patch_image/public/shutterstock-1256468350___03213444981.jpg",
+            "publishedAt": "2022-02-05T18:41:43Z",
+            "content": "MARYLAND Seventeen people in 13 states, including Maryland, were sickened in two listeria outbreaks tied to recalled prepackaged salad brands, the Centers for Disease Control and Prevention said this… [+1846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Luc Olinga",
+            "title": "Billionaire Michael Saylor, Winklevoss Bros Celebrate Bitcoin Rebound - TheStreet",
+            "description": "The start of the year has been a trying one for bitcoin evangelists, who therefore do not hesitate to celebrate the thrills of a cryptocurrency rebound.",
+            "url": "https://www.thestreet.com/investing/billionaire-michael-saylor-winklevoss-bros-celebrate-bitcoin-rebound",
+            "urlToImage": "https://www.thestreet.com/.image/t_share/MTgxNjEyNTkxNzE2NTA5NDUz/winklevoss-twins.jpg",
+            "publishedAt": "2022-02-05T18:24:36Z",
+            "content": "They did not wait long to celebrate, and especially to remind naysayers that their faith in cryptocurrencies is justified. The tremors of a bitcoin rebound have given voice to aficionados of the king… [+3218 chars]"
+        },
+        {
+            "source": {
+                "id": "marca",
+                "name": "Marca"
+            },
+            "author": "MARCA ENGLISH",
+            "title": "Eat Ice Cream for Breakfast Day: 5 facts about this delicious national holiday - Marca English",
+            "description": "Yes, there&apos;s a national holiday that celebrates eating ice cream as breakfast. \n\nOn Saturday, February 5, we all celebrate National Eat Ice Cream for Breakfast Day.\n\nThe holid",
+            "url": "https://www.marca.com/en/lifestyle/us-news/2022/02/05/61fea612ca474103268b45f7.html",
+            "urlToImage": "https://phantom-marca.unidadeditorial.es/bb8291cceec237bf067029da26417778/resize/1200/f/jpg/assets/multimedia/imagenes/2022/02/05/16440784833240.jpg",
+            "publishedAt": "2022-02-05T17:23:01Z",
+            "content": "Yes, there's a national holiday that celebrates eating ice cream as breakfast. \r\nOn Saturday, February 5, we all celebrate National Eat Ice Cream for Breakfast Day.\r\nThe holiday began in the 1960s, w… [+1395 chars]"
+        }
+    ]
 }
