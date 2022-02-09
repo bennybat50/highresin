@@ -380,6 +380,34 @@
 <script src="{{ asset('assets/js/jquery.min.js') }}" type="text/javascript"></script>
 
 <script>
+    var images = ["assets\/images\/home\/img1.jpg", "assets\/images\/home\/img2.jpg",
+
+    ];
+    var nextimage = 0;
+
+    doSlideshow();
+
+    function doSlideshow() {
+        if ($('.slideshowimage').length != 0) {
+            $('.slideshowimage').fadeOut(500, function() {
+                slideshowFadeIn();
+                $(this).remove()
+            });
+        } else {
+            slideshowFadeIn();
+        }
+    }
+
+    function slideshowFadeIn() {
+        $('.home-sec').prepend($('<img class="slideshowimage" src="' + images[nextimage++] +
+            '" style="display:none">').fadeIn(1000, function() {
+            setTimeout(doSlideshow, 2000);
+        }));
+        if (nextimage >= images.length)
+            nextimage = 0;
+    }
+</script>
+<script>
     $('.subtitle').hide();
 
     $('.toggle').click(function() {
