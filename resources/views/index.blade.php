@@ -76,7 +76,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <video style="width: 100%; height:100%;" controls>
+                    <video style="width: 100%; height:100%;" poster="{{ asset('assets/images/icons/play_placeholder.jpg') }}" controls>
                         <source src="{{ asset('assets/images/home/resin.mp4') }}" type="video/mp4">
                         Your browser does not support the video tag.
                       </video>
@@ -381,7 +381,7 @@
 
 <script>
     var images = ["assets\/images\/home\/img1.jpg", "assets\/images\/home\/img2.jpg",
-
+    , "assets\/images\/home\/img3.jpg",
     ];
     var nextimage = 0;
 
