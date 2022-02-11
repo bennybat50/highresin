@@ -317,60 +317,64 @@
 <div class="home-section6">
     <div class="content-section">
         <div class="container">
-            <h1 class="text-center">Answering your frequently-asked questions.</h1>
-            <h3 class="text-center">Why Highresin?</h3>
-            <div class="p-5">
-                <div class="accordion" id="accordionExample">
-                    <div class="accordion-item">
-                      <h2 class="accordion-header" id="headingOne">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            What’s unique about being a Highresin client?
-                        </button>
-                      </h2>
-                      <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                        <div class="accordion-body p-3">
-                            Being a Highresin client means that you get the benefit of working with our financial professionals, who will partner with you for life. Our clients are also backed by a company with a long history and notable financial strength that’s the type of security and track record you can rely on.
-                        </div>
-                      </div>
-                    </div>
-                    <div class="accordion-item">
-                      <h2 class="accordion-header" id="headingTwo">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            How do I know Highresin has my best interest in mind?
-                        </button>
-                      </h2>
-                      <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            Highresin is an asset management company. We answer to policy owners not to Wall Street. That means that your interests and our interests are aligned.
-                        </div>
-                      </div>
-                    </div>
-                    <div class="accordion-item">
-                      <h2 class="accordion-header" id="headingThree">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            What are the benefits of working with a financial professional versus online?
-                        </button>
-                      </h2>
-                      <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            We believe in the value of human guidance. Life insurance, retirement, and financial products can be complex. Our financial professionals are highly trained and have access to the latest tools and resources to guide you throughout your life as your needs change. They will work directly with you to simplify matters and help you achieve your short-term and long-term goals.
-                        </div>
-                      </div>
-                    </div>
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="headingFour">
-                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            Does working with a Highresin financial professional cost me anything?
-                          </button>
-                        </h2>
-                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                          <div class="accordion-body">
-                            Getting started doesn’t cost anything. Just connect with one of our financial professionals to discuss your needs. Together, you can clarify your financial position, goals, and aspirations and co-create a plan to ensure you’re prepared for whatever life may bring. Our financial professionals can give you a good sense of how much various solutions cost, so you can make the best decisions for you.
+           <div class="row">
+               <div class="col-md-7">
+                <h1 class="">Answering your frequently-asked questions.</h1>
+                <h3 class="">Why Highresin?</h3>
+
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                          <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                What’s unique about being a Highresin client?
+                            </button>
+                          </h2>
+                          <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body p-3">
+                                Being a Highresin client means that you get the benefit of working with our financial professionals, who will partner with you for life. Our clients are also backed by a company with a long history and notable financial strength that’s the type of security and track record you can rely on.
+                            </div>
                           </div>
                         </div>
-                      </div>
-                  </div>
-            </div>
+                        <div class="accordion-item">
+                          <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                How do I know Highresin has my best interest in mind?
+                            </button>
+                          </h2>
+                          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Highresin is an asset management company. We answer to policy owners not to Wall Street. That means that your interests and our interests are aligned.
+                            </div>
+                          </div>
+                        </div>
+                        <div class="accordion-item">
+                          <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                What are the benefits of working with a financial professional versus online?
+                            </button>
+                          </h2>
+                          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                We believe in the value of human guidance. Life insurance, retirement, and financial products can be complex. Our financial professionals are highly trained and have access to the latest tools and resources to guide you throughout your life as your needs change. They will work directly with you to simplify matters and help you achieve your short-term and long-term goals.
+                            </div>
+                          </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFour">
+                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                Does working with a Highresin financial professional cost me anything?
+                              </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                              <div class="accordion-body">
+                                Getting started doesn’t cost anything. Just connect with one of our financial professionals to discuss your needs. Together, you can clarify your financial position, goals, and aspirations and co-create a plan to ensure you’re prepared for whatever life may bring. Our financial professionals can give you a good sense of how much various solutions cost, so you can make the best decisions for you.
+                              </div>
+                            </div>
+                          </div>
+
+                </div>
+               </div>
+           </div>
         </div>
     </div>
 </div>
@@ -380,9 +384,7 @@
 <script src="{{ asset('assets/js/jquery.min.js') }}" type="text/javascript"></script>
 
 <script>
-    var images = ["assets\/images\/home\/img1.jpg", "assets\/images\/home\/img2.jpg",
-    , "assets\/images\/home\/img3.jpg",
-    ];
+    var images = ["assets\/images\/home\/slide1.png", "assets\/images\/home\/slide2.jpg",,"assets\/images\/home\/slide3.jpg"];
     var nextimage = 0;
 
     doSlideshow();
@@ -400,7 +402,7 @@
 
     function slideshowFadeIn() {
         $('.home-sec').prepend($('<img class="slideshowimage" src="' + images[nextimage++] +
-            '" style="display:none">').fadeIn(1000, function() {
+            '" style="display:none">').fadeIn(2000, function() {
             setTimeout(doSlideshow, 2000);
         }));
         if (nextimage >= images.length)
