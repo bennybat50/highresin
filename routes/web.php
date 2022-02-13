@@ -129,6 +129,41 @@ Route::get('/research', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::get('/understanding-whales-market-movers', function () {
+    return view('understanding-whales-market-movers');
+});
+
+Route::get('/common-trading-mistakes', function () {
+    return view('common-trading-mistakes');
+});
+Route::get('/diversification', function () {
+    return view('diversification');
+});
+Route::get('/smart-contracts', function () {
+    return view('smart-contracts');
+});
+
+Route::get('/swing-trading', function () {
+    return view('swing-trading');
+});
+
+Route::get('/circulating-total-supply', function () {
+    return view('circulating-total-supply');
+});
+Route::get('/market-cap', function () {
+    return view('market-cap');
+});
+Route::get('/mindset-for-crypto', function () {
+    return view('mindset-for-crypto');
+});
+Route::get('/trader-analyst', function () {
+    return view('trader-analyst');
+});
+
+
+
+
 // public page routes End
 
 //User Registration Routes

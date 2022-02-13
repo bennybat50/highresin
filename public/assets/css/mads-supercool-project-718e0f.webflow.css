@@ -5980,12 +5980,22 @@ figcaption {
 /* investment approach */
 
 /* Research Page CSS start */
-.research_welcome{background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/research_and_analysis/1.jpg')}
-.research_box{border: 1.2px solid #004078; border-radius: 30px;}
-.research_box img{object-fit: cover; object-position: 100% 100%; width: 100%; border-radius: 30px 30px 0px 0px; height: 250px;}
-.research_box_link{
-  text-decoration: none;
-}
+.research_welcome{height: 400px; background-position: bottom; background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/research_and_analysis/1.jpg')}
+.research_box{border: 1.2px solid #004078; border-radius: 10px; height: 550px;}
+.research_box img{object-fit: cover; object-position: 100% 100%; width: 100%; border-radius: 10px 10px 0px 0px; height: 250px;}
+.research_box_link{text-decoration: none;}
+.movers{ background-image: linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/research_and_analysis/2.jpg')}
+.movers2{ background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)),  url('../images/insights/research_and_analysis/3.jpg')}
+.movers3{ background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/research_and_analysis/4.jpg')}
+.movers4{ background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/research_and_analysis/5.jpg')}
+.movers5{ background-image: linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)),url('../images/insights/research_and_analysis/6.jpg')}
+.movers6{ background-image: linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)),url('../images/insights/research_and_analysis/7.jpg')}
+.movers7{ background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/research_and_analysis/8.jpg')}
+.movers8{ background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/research_and_analysis/9.jpg')}
+.movers9{ background-image:linear-gradient(180deg, rgba(7, 16, 48, 0.572), rgba(7, 16, 48, 0.572)), url('../images/insights/research_and_analysis/10.jpg')}
+.common-ul ul{color: #000;}
+.common-ul ul li{padding-bottom: 20px;}
+
 /* Research Page CSS end */
 
 

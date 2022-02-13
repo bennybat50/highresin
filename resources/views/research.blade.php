@@ -6,13 +6,7 @@
         <div class="container">
             <div class="p-5">
                 <h4 class="text-white"><b><i>Research and Analysis</i></b> -</h4>
-               
-                <br>
-                <p class="text-white font-20 pr-5">
 
-                </p>
-                <br>
-                <a href="" class="site-btn-white">Get Started</a>
             </div>
         </div>
     </div>
@@ -42,7 +36,7 @@
                             people/funds that typically hold at least 1,000 BTC.
                         </p>
 
-                        <a href="" class="research_box_link" style="font-size: 12px;">READ MORE</a>
+                        <a href="understanding-whales-market-movers" class="research_box_link" style="font-size: 12px;">READ MORE</a>
                     </div>
                 </div>
             </div>
@@ -66,7 +60,7 @@
                             crypto-trading boom, the idea of trading being “easy” has become increasingly popular.
                         </p>
 
-                        <a href="" class="research_box_link" style="font-size: 12px;">READ MORE</a>
+                        <a href="common-trading-mistakes" class="research_box_link" style="font-size: 12px;">READ MORE</a>
                     </div>
                 </div>
             </div>
@@ -91,7 +85,7 @@
                             investors must know how to limit their losses in such a volatile market.
                         </p>
 
-                        <a href="" class="research_box_link" style="font-size: 12px;">READ MORE</a>
+                        <a href="diversification" class="research_box_link" style="font-size: 12px;">READ MORE</a>
                     </div>
                 </div>
             </div>
@@ -116,7 +110,7 @@
                             cannot be altered.
                         </p>
 
-                        <a href="" class="research_box_link" style="font-size: 12px;">READ MORE</a>
+                        <a href="smart-contracts" class="research_box_link" style="font-size: 12px;">READ MORE</a>
                     </div>
                 </div>
             </div>
@@ -141,7 +135,7 @@
                             very different.
                         </p>
 
-                        <a href="" class="research_box_link" style="font-size: 12px;">READ MORE</a>
+                        <a href="swing-trading" class="research_box_link" style="font-size: 12px;">READ MORE</a>
                     </div>
                 </div>
             </div>
@@ -166,7 +160,7 @@
                             own research, in order to build the proper profile of the project he is putting trust in.
                         </p>
 
-                        <a href="" class="research_box_link" style="font-size: 12px;">READ MORE</a>
+                        <a href="circulating-total-supply" class="research_box_link" style="font-size: 12px;">READ MORE</a>
                     </div>
                 </div>
             </div>
@@ -191,7 +185,7 @@
                             asset.
                         </p>
 
-                        <a href="" class="research_box_link" style="font-size: 12px;">READ MORE</a>
+                        <a href="market-cap" class="research_box_link" style="font-size: 12px;">READ MORE</a>
                     </div>
                 </div>
             </div>
@@ -217,7 +211,7 @@
                             significant setback and take time before further progress towards adoption.
                         </p>
 
-                        <a href="" class="research_box_link" style="font-size: 12px;">READ MORE</a>
+                        <a href="mindset-for-crypto" class="research_box_link" style="font-size: 12px;">READ MORE</a>
                     </div>
                 </div>
             </div>
@@ -243,7 +237,7 @@
                             having a trader’s mindset.
                         </p>
 
-                        <a href="" class="research_box_link" style="font-size: 12px;">READ MORE</a>
+                        <a href="trader-analyst" class="research_box_link" style="font-size: 12px;">READ MORE</a>
                     </div>
                 </div>
             </div>
